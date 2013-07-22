@@ -1,0 +1,7288 @@
+User 5712 - John Doe
+BEFORE
+ foo1  - 2013-09-26 13:44
+AFTER
+ foo1  - 2013-09-26 13:44
+
+User 8960 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+  foo3 baz  - 2013-12-30 16:00
+AFTER
+ foo44444  - 2013-12-30 16:00
+
+User 2454 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 5716 - John Doe
+BEFORE
+ foo3 baz  - 2013-07-06 11:45
+  foo1  - 2013-07-06 11:45
+  foo2 blah  - 2013-07-06 11:45
+AFTER
+ foo44444  - 2013-07-06 11:45
+
+User 3398 - John Doe
+BEFORE
+ foo1  - 2013-05-08 17:37
+  foo555  - 2013-05-08 17:37
+(no dates!)
+AFTER
+ foo555  - 2013-05-08 17:37
+User 8921 - John Doe
+BEFORE
+ foo555  - 2014-02-27 08:18
+  foo66bsd  - 2014-02-27 08:18
+  foo1  - 2014-02-27 08:18
+AFTER
+ blaz1  - 2014-02-27 08:18
+
+User 2405 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 65 - John Doe
+BEFORE
+ foo1  - 2014-05-21 11:43
+  foo555  - 2013-09-16 13:28
+AFTER
+ bzzzz2  - 2013-09-16 13:28
+
+User 2892 - John Doe
+BEFORE
+ foo1  - 2014-04-18 15:41
+  foo555  - 2014-04-18 15:41
+AFTER
+ bzzzz2  - 2014-04-18 15:41
+
+User 6762 - John Doe
+BEFORE
+ foo555  - 2013-09-27 09:12
+  foo1  - 2013-09-27 09:12
+AFTER
+ bzzzz2  - 2013-09-27 09:12
+
+User 8950 - John Doe
+BEFORE
+ foo1  - 2014-03-01 09:05
+  foo555  - 2014-03-01 09:05
+AFTER
+ bzzzz2  - 2014-03-01 09:05
+
+User 9760 - John Doe
+BEFORE
+ foo2 blah  - 2014-04-12 12:33
+  foo1  - 2014-04-12 12:33
+AFTER
+ bzzz7  - 2014-04-12 12:33
+
+User 2396 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 9427 - John Doe
+BEFORE
+ foo2 blah  - 2014-03-31 00:00
+  foo3 baz  - 2014-03-31 00:00
+  foo1  - 2014-03-31 00:00
+AFTER
+ foo44444  - 2014-03-31 00:00
+
+User 978 - John Doe
+BEFORE
+ foo1  - 2013-09-12 08:42
+  foo555  - 2013-06-13 11:42
+AFTER
+ bzzzz2  - 2013-06-13 11:42
+
+User 9720 - John Doe
+BEFORE
+ foo2 blah  - 2014-03-31 00:00
+  foo3 baz  - 2014-03-31 00:00
+  foo1  - 2014-03-31 00:00
+AFTER
+ foo44444  - 2014-03-31 00:00
+
+User 4412 - John Doe
+BEFORE
+ foo1  - 2014-03-11 14:51
+  foo555  - 2014-03-11 14:51
+AFTER
+ bzzzz2  - 2014-03-11 14:51
+
+User 8599 - John Doe
+BEFORE
+ foo1  - 2014-02-18 09:06
+  foo555  - 2014-02-18 09:06
+AFTER
+ bzzzz2  - 2014-02-18 09:06
+
+User 8078 - John Doe
+BEFORE
+ foo1  - 2014-04-26 14:23
+  foo555  - 2014-04-26 14:23
+AFTER
+ bzzzz2  - 2014-04-26 14:23
+
+User 5304 - John Doe
+BEFORE
+ foo1  - 2013-06-11 15:20
+  foo2 blah  - 2013-06-11 15:20
+AFTER
+ bzzz7  - 2013-06-11 15:20
+
+User 4976 - John Doe
+BEFORE
+ foo1  - 2013-08-23 10:24
+  foo3 baz  - 2013-07-23 18:47
+  foo2 blah  - 2013-07-23 18:47
+AFTER
+ foo44444  - 2013-07-23 18:47
+
+User 2555 - John Doe
+BEFORE
+ foo66bsd  - 2014-02-28 16:40
+  foo555  - 2014-02-28 16:40
+  foo1  - 2014-03-21 13:31
+AFTER
+ blaz1  - 2014-02-28 16:40
+
+User 8825 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-22 07:56
+  foo3 baz  - 2014-02-22 07:56
+  foo1  - 2014-02-22 07:56
+AFTER
+ foo44444  - 2014-02-22 07:56
+
+User 3483 - John Doe
+BEFORE
+ foo555  - 2014-04-10 13:19
+  foo1  - 2014-04-10 13:19
+AFTER
+ bzzzz2  - 2014-04-10 13:19
+
+User 3530 - John Doe
+BEFORE
+ foo1  - 2013-05-11 15:07
+  foo3 baz  - 2013-05-11 15:07
+  foo2 blah  - 2013-05-11 15:07
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-11 15:07
+  foo2 blah  - 2013-05-11 15:07
+User 866 - John Doe
+BEFORE
+ foo1  - 2014-02-01 00:00
+AFTER
+ foo1  - 2014-02-01 00:00
+
+User 8105 - John Doe
+BEFORE
+ foo1  - 2014-01-16 13:01
+  foo3 baz  - 2014-01-16 13:01
+  foo2 blah  - 2014-01-16 13:01
+AFTER
+ foo44444  - 2014-01-16 13:01
+
+User 7165 - John Doe
+BEFORE
+ foo1  - 2014-04-09 14:26
+  foo2 blah  - 2014-04-09 14:26
+AFTER
+ bzzz7  - 2014-04-09 14:26
+
+User 4339 - John Doe
+BEFORE
+ foo555  - 2014-04-23 00:00
+  foo1  - 2014-04-23 00:00
+AFTER
+ bzzzz2  - 2014-04-23 00:00
+
+User 73 - John Doe
+BEFORE
+ foo555  - 2013-12-04 15:56
+  foo1  - 2013-12-04 15:56
+AFTER
+ bzzzz2  - 2013-12-04 15:56
+
+User 9697 - John Doe
+BEFORE
+ bzz10  - 2014-04-09 07:52
+  foo1  - 2014-04-09 07:52
+AFTER
+ blaz44  - 2014-04-09 07:52
+
+User 8641 - John Doe
+BEFORE
+ foo66bsd  - 2014-02-11 15:08
+  foo555  - 2014-02-11 15:08
+  foo1  - 2014-02-11 15:08
+AFTER
+ blaz1  - 2014-02-11 15:08
+
+User 1732 - John Doe
+BEFORE
+ bzz10  - 2013-09-18 13:28
+  foo1  - 2013-09-18 13:28
+AFTER
+ blaz44  - 2013-09-18 13:28
+
+User 4526 - John Doe
+BEFORE
+ foo1  - 2014-04-17 11:09
+  bzz10  - 2014-04-17 11:09
+AFTER
+ blaz44  - 2014-04-17 11:09
+
+User 6638 - John Doe
+BEFORE
+ foo1  - 2014-02-19 13:57
+  foo555  - 2014-02-19 13:57
+AFTER
+ bzzzz2  - 2014-02-19 13:57
+
+User 9968 - John Doe
+BEFORE
+ foo1  - 2014-04-26 17:55
+  bzz10  - 2014-04-26 17:55
+AFTER
+ blaz44  - 2014-04-26 17:55
+
+User 9969 - John Doe
+BEFORE
+ foo1  - 2014-04-26 17:55
+  bzz10  - 2014-04-26 17:55
+AFTER
+ blaz44  - 2014-04-26 17:55
+
+User 7161 - John Doe
+BEFORE
+ foo1  - 2014-03-18 11:13
+  foo555  - 2014-03-18 11:13
+AFTER
+ bzzzz2  - 2014-03-18 11:13
+
+User 910 - John Doe
+BEFORE
+ foo1  - 2014-02-04 11:58
+AFTER
+ foo1  - 2014-02-04 11:58
+
+User 6299 - John Doe
+BEFORE
+ foo1  - 2013-08-22 14:19
+  foo555  - 2013-08-22 14:19
+AFTER
+ bzzzz2  - 2013-08-22 14:19
+
+User 2963 - John Doe
+BEFORE
+ foo555  - 2013-10-03 10:23
+  foo1  - 2013-10-03 10:23
+AFTER
+ bzzzz2  - 2013-10-03 10:23
+
+User 3707 - John Doe
+BEFORE
+ foo3 baz  - 2014-03-01 12:50
+  foo1  - 2014-03-01 12:50
+  foo2 blah  - 2014-03-01 12:50
+AFTER
+ foo44444  - 2014-03-01 12:50
+
+User 7756 - John Doe
+BEFORE
+ foo1  - 2013-12-09 11:55
+  foo3 baz  - 2013-12-09 11:55
+  foo2 blah  - 2013-12-09 11:55
+AFTER
+ foo44444  - 2013-12-09 11:55
+
+User 2397 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 7615 - John Doe
+BEFORE
+ foo66bsd  - 2014-01-06 09:09
+  foo1  - 2013-12-16 10:52
+  foo555  - 2013-12-16 10:52
+AFTER
+ blaz1  - 2014-01-06 09:09
+
+User 8244 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-30 16:00
+  foo3 baz  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+AFTER
+ foo44444  - 2013-12-30 16:00
+
+User 218 - John Doe
+BEFORE
+ foo555  - 2013-06-26 12:30
+  foo1  - 2013-06-26 12:30
+AFTER
+ bzzzz2  - 2013-06-26 12:30
+
+User 1043 - John Doe
+BEFORE
+ foo66bsd  - 2014-05-24 20:59
+  foo1  - 2013-07-09 09:32
+  foo555  - 2013-05-24 13:27
+FIXUP!
+AFTER
+ foo555  - 2013-05-24 13:27
+  blaz1  - 2014-05-24 20:59
+
+User 3628 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 4806 - John Doe
+BEFORE
+ foo1  - 2013-07-12 11:09
+  foo2 blah  - 2013-07-12 11:09
+AFTER
+ bzzz7  - 2013-07-12 11:09
+
+User 3197 - John Doe
+BEFORE
+ foo555  - 2014-03-20 08:43
+  foo1  - 2014-03-20 08:43
+AFTER
+ bzzzz2  - 2014-03-20 08:43
+
+User 947 - John Doe
+BEFORE
+ foo555  - 2014-02-24 14:06
+  foo1  - 2014-04-10 13:17
+AFTER
+ bzzzz2  - 2014-02-24 14:06
+
+User 2053 - John Doe
+BEFORE
+ foo1  - 2013-09-17 13:48
+  foo555  - 2013-09-17 13:48
+AFTER
+ bzzzz2  - 2013-09-17 13:48
+
+User 9452 - John Doe
+BEFORE
+ foo1  - 2014-03-27 12:07
+  foo555  - 2014-03-27 12:07
+AFTER
+ bzzzz2  - 2014-03-27 12:07
+
+User 1525 - John Doe
+BEFORE
+ foo1  - 2022-10-31 12:50
+  foo3 baz  - 2022-10-31 12:50
+  foo2 blah  - 2022-10-31 12:50
+AFTER
+ foo44444  - 2022-10-31 12:50
+
+User 311 - John Doe
+BEFORE
+ foo66bsd  -
+(no dates!)
+AFTER
+ foo66bsd  -
+User 4424 - John Doe
+BEFORE
+ foo1  - 2013-09-11 12:09
+  foo555  - 2013-09-11 12:09
+AFTER
+ bzzzz2  - 2013-09-11 12:09
+
+User 7348 - John Doe
+BEFORE
+ foo1  - 2013-11-30 12:10
+  foo2 blah  - 2013-11-30 12:10
+AFTER
+ bzzz7  - 2013-11-30 12:10
+
+User 8687 - John Doe
+BEFORE
+ foo1  - 2014-02-14 08:01
+  foo66bsd  - 2014-02-14 08:01
+  foo555  - 2014-02-14 07:41
+AFTER
+ blaz1  - 2014-02-14 08:01
+
+User 3776 - John Doe
+BEFORE
+ foo1  - 2014-03-29 19:43
+  foo555  - 2014-03-29 19:43
+AFTER
+ bzzzz2  - 2014-03-29 19:43
+
+User 2428 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 375 - John Doe
+BEFORE
+ foo2 blah  - 2013-05-26 00:00
+  foo1  - 2013-05-26 00:00
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-26 00:00
+User 2263 - John Doe
+BEFORE
+ foo66bsd  - 2014-02-13 12:18
+  foo555  - 2014-02-13 12:18
+AFTER
+ blaz1  - 2014-02-13 12:18
+
+User 4145 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2383 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 4225 - John Doe
+BEFORE
+ foo555  - 2014-04-17 14:53
+  foo1  - 2014-04-17 14:53
+AFTER
+ bzzzz2  - 2014-04-17 14:53
+
+User 1720 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 402 - John Doe
+BEFORE
+ foo1  - 2014-02-14 16:09
+  foo3 baz  - 2014-02-10 11:36
+  foo2 blah  - 2013-09-24 09:34
+AFTER
+ foo44444  - 2014-02-10 11:36
+
+User 654 - John Doe
+BEFORE
+ foo3 baz  - 2013-08-27 10:11
+  foo1  - 2013-08-27 10:11
+  foo2 blah  - 2013-08-27 10:11
+AFTER
+ foo44444  - 2013-08-27 10:11
+
+User 417 - John Doe
+BEFORE
+ foo1  - 2014-04-20 10:09
+  foo555  - 2014-04-20 10:09
+AFTER
+ bzzzz2  - 2014-04-20 10:09
+
+User 3605 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 9801 - John Doe
+BEFORE
+ foo2 blah  - 2013-05-30 08:00
+  foo1  - 2013-05-30 08:00
+AFTER
+ bzzz7  - 2013-05-30 08:00
+
+User 4757 - John Doe
+BEFORE
+ foo555  - 2014-01-30 11:49
+  foo1  - 2014-01-30 11:49
+AFTER
+ bzzzz2  - 2014-01-30 11:49
+
+User 2825 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 6732 - John Doe
+BEFORE
+ foo555  - 2013-12-01 06:25
+AFTER
+ bzzzz2  - 2013-12-01 06:25
+
+User 1104 - John Doe
+BEFORE
+ foo555  - 2014-04-15 07:44
+AFTER
+ bzzzz2  - 2014-04-15 07:44
+
+User 2491 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+  foo3 baz  - 2013-12-30 16:00
+AFTER
+ foo44444  - 2013-12-30 16:00
+
+User 3259 - John Doe
+BEFORE
+ foo555  - 2014-03-28 15:23
+  foo66bsd  - 2014-03-28 15:23
+  foo1  - 2014-03-28 15:23
+AFTER
+ blaz1  - 2014-03-28 15:23
+
+User 3633 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 27 - John Doe
+BEFORE
+ foo1  - 2014-03-05 15:15
+AFTER
+ foo1  - 2014-03-05 15:15
+
+User 6897 - John Doe
+BEFORE
+ foo3 baz  - 2013-11-02 00:00
+  foo2 blah  - 2013-11-02 00:00
+  foo1  - 2013-11-02 00:00
+AFTER
+ foo44444  - 2013-11-02 00:00
+
+User 2585 - John Doe
+BEFORE
+ foo2 blah  - 2014-04-30 06:48
+  foo3 baz  - 2014-04-30 06:48
+  foo1  - 2014-04-30 06:48
+AFTER
+ foo44444  - 2014-04-30 06:48
+
+User 7760 - John Doe
+BEFORE
+ foo555  - 2014-02-18 10:36
+  foo66bsd  - 2014-02-18 10:36
+  foo1  - 2014-02-18 10:36
+AFTER
+ blaz1  - 2014-02-18 10:36
+
+User 4643 - John Doe
+BEFORE
+ foo2 blah  - 2014-03-26 13:17
+  foo3 baz  - 2014-03-26 13:17
+  foo1  - 2014-03-26 13:17
+AFTER
+ foo44444  - 2014-03-26 13:17
+
+User 5611 - John Doe
+BEFORE
+ foo3 baz  - 2013-08-07 14:11
+  foo2 blah  - 2013-06-29 10:57
+  foo1  - 2013-06-29 10:57
+AFTER
+ foo44444  - 2013-08-07 14:11
+
+User 3673 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 9400 - John Doe
+BEFORE
+ foo3 baz  - 2014-03-26 08:02
+  foo1  - 2014-03-26 08:02
+  foo2 blah  - 2014-03-26 08:02
+AFTER
+ foo44444  - 2014-03-26 08:02
+
+User 9460 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+  foo1  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 730 - John Doe
+BEFORE
+ foo555  - 2014-04-05 07:44
+  foo66bsd  - 2014-04-05 07:44
+  foo1  - 2014-04-05 07:44
+AFTER
+ blaz1  - 2014-04-05 07:44
+
+User 7015 - John Doe
+BEFORE
+ foo1  - 2014-05-16 15:49
+  foo555  - 2014-05-16 15:49
+AFTER
+ bzzzz2  - 2014-05-16 15:49
+
+User 2593 - John Doe
+BEFORE
+ foo1  - 2013-08-16 18:18
+  foo555  - 2013-08-16 18:18
+AFTER
+ bzzzz2  - 2013-08-16 18:18
+
+User 4879 - John Doe
+BEFORE
+ foo1  - 2013-05-11 10:27
+  foo3 baz  - 2013-05-11 10:27
+  foo2 blah  - 2013-05-11 10:27
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-11 10:27
+  foo2 blah  - 2013-05-11 10:27
+User 5034 - John Doe
+BEFORE
+ foo555  - 2013-06-01 15:18
+  foo1  - 2013-06-01 15:18
+AFTER
+ bzzzz2  - 2013-06-01 15:18
+
+User 6242 - John Doe
+BEFORE
+ foo1  - 2014-04-08 08:49
+  foo555  - 2014-04-08 08:49
+AFTER
+ bzzzz2  - 2014-04-08 08:49
+
+User 1571 - John Doe
+BEFORE
+ foo66bsd  - 2013-08-23 09:07
+  foo555  - 2013-08-23 09:07
+  foo1  - 2013-09-27 10:00
+AFTER
+ blaz1  - 2013-08-23 09:07
+
+User 9828 - John Doe
+BEFORE
+ foo1  - 2014-05-22 14:44
+  bzz10  - 2014-05-22 14:44
+AFTER
+ blaz44  - 2014-05-22 14:44
+
+User 4947 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+  foo1  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 9546 - John Doe
+BEFORE
+ foo1  - 2014-05-16 15:35
+  foo66bsd  - 2014-04-03 09:56
+  foo555  - 2014-04-03 09:56
+AFTER
+ blaz1  - 2014-04-03 09:56
+
+User 9800 - John Doe
+BEFORE
+ foo1  - 2013-05-30 16:00
+  foo2 blah  - 2013-05-30 16:00
+AFTER
+ bzzz7  - 2013-05-30 16:00
+
+User 1153 - John Doe
+BEFORE
+ foo555  - 2013-12-11 07:11
+  foo1  - 2013-12-11 07:11
+AFTER
+ bzzzz2  - 2013-12-11 07:11
+
+User 4124 - John Doe
+BEFORE
+ foo1  - 2013-07-10 10:07
+AFTER
+ foo1  - 2013-07-10 10:07
+
+User 6462 - John Doe
+BEFORE
+ foo555  - 2014-04-09 14:07
+AFTER
+ bzzzz2  - 2014-04-09 14:07
+
+User 4604 - John Doe
+BEFORE
+ foo1  - 2014-04-23 12:59
+  foo555  - 2014-04-23 12:59
+AFTER
+ bzzzz2  - 2014-04-23 12:59
+
+User 4909 - John Doe
+BEFORE
+ bzz10  - 2013-06-05 09:43
+  foo1  - 2014-05-16 17:07
+AFTER
+ blaz44  - 2013-06-05 09:43
+
+User 3426 - John Doe
+BEFORE
+ foo1  - 2014-02-24 11:10
+  foo66bsd  - 2014-02-24 11:10
+  foo555  - 2014-02-24 11:10
+AFTER
+ blaz1  - 2014-02-24 11:10
+
+User 3663 - John Doe
+BEFORE
+ foo555  - 2014-03-06 09:32
+  foo1  - 2014-03-06 09:32
+AFTER
+ bzzzz2  - 2014-03-06 09:32
+
+User 1652 - John Doe
+BEFORE
+ foo1  - 2013-06-07 16:00
+AFTER
+ foo1  - 2013-06-07 16:00
+
+User 259 - John Doe
+BEFORE
+ foo555  - 2014-03-07 12:57
+  foo1  - 2014-03-07 12:57
+AFTER
+ bzzzz2  - 2014-03-07 12:57
+
+User 1905 - John Doe
+BEFORE
+ foo2 blah  - 2014-04-24 07:04
+  foo3 baz  - 2014-04-24 07:04
+  foo1  - 2014-04-24 07:04
+AFTER
+ foo44444  - 2014-04-24 07:04
+
+User 8516 - John Doe
+BEFORE
+ foo1  - 2014-02-04 11:38
+  foo555  - 2014-02-04 11:38
+AFTER
+ bzzzz2  - 2014-02-04 11:38
+
+User 3676 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 396 - John Doe
+BEFORE
+ foo1  - 2014-02-09 22:01
+  foo66bsd  - 2014-02-02 15:35
+  foo555  - 2014-02-02 00:00
+AFTER
+ blaz1  - 2014-02-02 15:35
+
+User 3310 - John Doe
+BEFORE
+ foo1  - 2014-03-26 06:56
+  foo555  - 2014-03-26 06:56
+AFTER
+ bzzzz2  - 2014-03-26 06:56
+
+User 9373 - John Doe
+BEFORE
+ foo1  - 2013-09-25 15:38
+  foo2 blah  - 2013-09-25 15:38
+AFTER
+ bzzz7  - 2013-09-25 15:38
+
+User 187 - John Doe
+BEFORE
+ foo1  - 2014-03-01 20:27
+  foo555  - 2013-07-14 10:31
+AFTER
+ bzzzz2  - 2013-07-14 10:31
+
+User 8732 - John Doe
+BEFORE
+ foo1  - 2014-03-06 15:06
+  foo555  - 2014-02-20 09:48
+AFTER
+ bzzzz2  - 2014-02-20 09:48
+
+User 8893 - John Doe
+BEFORE
+ foo555  - 2014-02-25 10:46
+  foo1  - 2014-02-25 10:46
+AFTER
+ bzzzz2  - 2014-02-25 10:46
+
+User 1063 - John Doe
+BEFORE
+ foo555  - 2014-03-15 12:12
+  foo1  - 2014-03-15 12:12
+AFTER
+ bzzzz2  - 2014-03-15 12:12
+
+User 3582 - John Doe
+BEFORE
+ foo1  - 2013-08-28 13:52
+AFTER
+ foo1  - 2013-08-28 13:52
+
+User 4530 - John Doe
+BEFORE
+ foo555  - 2014-09-06 08:00
+  foo66bsd  - 2014-09-06 08:00
+  foo1  - 2013-09-07 15:06
+AFTER
+ blaz1  - 2014-09-06 08:00
+
+User 5756 - John Doe
+BEFORE
+ foo1  - 2013-10-08 12:04
+  foo66bsd  - 2013-10-08 12:04
+  foo555  - 2013-10-08 12:04
+AFTER
+ blaz1  - 2013-10-08 12:04
+
+User 2409 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 7385 - John Doe
+BEFORE
+ foo1  - 2014-01-08 13:35
+  foo3 baz  - 2014-01-08 13:35
+  foo2 blah  - 2014-01-08 13:35
+AFTER
+ foo44444  - 2014-01-08 13:35
+
+User 2268 - John Doe
+BEFORE
+ foo555  - 2013-09-04 16:54
+  foo1  - 2013-09-04 16:54
+AFTER
+ bzzzz2  - 2013-09-04 16:54
+
+User 1727 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 989 - John Doe
+BEFORE
+ foo555  - 2014-04-18 00:00
+  foo1  - 2014-04-18 14:17
+AFTER
+ bzzzz2  - 2014-04-18 00:00
+
+User 2468 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2271 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-20 16:00
+  foo1  - 2014-01-20 16:00
+  foo3 baz  - 2014-01-20 16:00
+AFTER
+ foo44444  - 2014-01-20 16:00
+
+User 2381 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 1255 - John Doe
+BEFORE
+ foo2 blah  - 2013-07-20 16:00
+  foo1  - 2013-10-14 00:00
+  foo3 baz  - 2013-05-09 22:00
+FIXUP!
+AFTER
+ foo3 baz  - 2013-05-09 22:00
+
+User 2674 - John Doe
+BEFORE
+ foo1  - 2014-01-30 11:23
+  foo555  - 2014-01-30 11:23
+AFTER
+ bzzzz2  - 2014-01-30 11:23
+
+User 2380 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 6936 - John Doe
+BEFORE
+ foo66bsd  - 2013-11-09 00:00
+  foo1  - 2013-11-09 00:00
+  foo555  - 2013-11-01 21:00
+AFTER
+ blaz1  - 2013-11-09 00:00
+
+User 289 - John Doe
+BEFORE
+ foo1  - 2014-04-17 11:09
+  foo555  - 2014-04-17 11:09
+AFTER
+ bzzzz2  - 2014-04-17 11:09
+
+User 3367 - John Doe
+BEFORE
+ foo66bsd  - 2014-04-03 19:08
+  foo1  - 2014-04-03 19:08
+  foo555  - 2014-04-03 19:08
+AFTER
+ blaz1  - 2014-04-03 19:08
+
+User 7244 - John Doe
+BEFORE
+ foo1  - 2013-11-12 12:14
+  foo2 blah  - 2013-11-12 12:14
+  foo3 baz  - 2013-11-12 12:14
+AFTER
+ foo44444  - 2013-11-12 12:14
+
+User 2581 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-19 10:30
+  foo3 baz  - 2014-01-19 10:30
+  foo1  - 2014-01-19 10:30
+AFTER
+ foo44444  - 2014-01-19 10:30
+
+User 6667 - John Doe
+BEFORE
+ foo555  - 2013-09-09 09:42
+  foo1  - 2013-09-09 09:42
+AFTER
+ bzzzz2  - 2013-09-09 09:42
+
+User 5867 - John Doe
+BEFORE
+ foo1  - 2013-07-18 17:04
+  foo3 baz  - 2013-07-18 17:04
+  foo2 blah  - 2013-07-18 17:04
+AFTER
+ foo44444  - 2013-07-18 17:04
+
+User 6983 - John Doe
+BEFORE
+ foo1  - 2013-10-11 12:06
+  foo555  - 2013-10-11 12:06
+AFTER
+ bzzzz2  - 2013-10-11 12:06
+
+User 1559 - John Doe
+BEFORE
+ bzz10  - 2014-02-02 15:35
+  foo1  - 2014-01-22 08:49
+AFTER
+ blaz44  - 2014-02-02 15:35
+
+User 3549 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-30 16:00
+  foo2 blah  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+AFTER
+ foo44444  - 2013-12-30 16:00
+
+User 3619 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 6806 - John Doe
+BEFORE
+ foo1  - 2013-09-20 08:25
+AFTER
+ foo1  - 2013-09-20 08:25
+
+User 9757 - John Doe
+BEFORE
+ foo2 blah  - 2014-04-12 09:56
+  foo1  - 2014-04-12 09:56
+AFTER
+ bzzz7  - 2014-04-12 09:56
+
+User 3631 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3566 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3550 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 255 - John Doe
+BEFORE
+ foo555  - 2013-11-10 00:00
+  foo1  - 2013-11-10 00:00
+AFTER
+ bzzzz2  - 2013-11-10 00:00
+
+User 7728 - John Doe
+BEFORE
+ foo1  - 2013-12-02 09:25
+  foo3 baz  - 2013-12-02 09:25
+  foo2 blah  - 2013-12-02 09:25
+AFTER
+ foo44444  - 2013-12-02 09:25
+
+User 3624 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2206 - John Doe
+BEFORE
+ foo1  - 2014-01-20 16:00
+  foo2 blah  - 2014-01-20 16:00
+  foo3 baz  - 2014-01-20 16:00
+AFTER
+ foo44444  - 2014-01-20 16:00
+
+User 5798 - John Doe
+BEFORE
+ foo1  - 2014-03-19 07:03
+  foo555  - 2014-03-19 07:03
+AFTER
+ bzzzz2  - 2014-03-19 07:03
+
+User 9989 - John Doe
+BEFORE
+ foo1  - 2014-04-29 15:10
+  foo3 baz  - 2014-04-29 15:10
+  foo2 blah  - 2014-04-29 15:10
+AFTER
+ foo44444  - 2014-04-29 15:10
+
+User 9727 - John Doe
+BEFORE
+ foo555  - 2014-04-10 16:22
+  foo1  - 2014-04-10 16:22
+AFTER
+ bzzzz2  - 2014-04-10 16:22
+
+User 4565 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+AFTER
+ bzzz7  - 2013-12-31 00:00
+
+User 8249 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-30 16:00
+  foo3 baz  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+AFTER
+ foo44444  - 2013-12-30 16:00
+
+User 3838 - John Doe
+BEFORE
+ foo1  - 2014-04-25 18:51
+  foo3 baz  - 2013-06-06 13:08
+AFTER
+ foo44444  - 2013-06-06 13:08
+
+User 1795 - John Doe
+BEFORE
+ foo1  - 2013-12-30 16:00
+  foo2 blah  - 2013-12-30 16:00
+  foo3 baz  - 2013-12-30 16:00
+AFTER
+ foo44444  - 2013-12-30 16:00
+
+User 2524 - John Doe
+BEFORE
+ foo1  - 2014-04-28 14:15
+  foo555  - 2014-03-13 12:26
+  foo66bsd  - 2014-03-13 12:26
+AFTER
+ blaz1  - 2014-03-13 12:26
+
+User 9115 - John Doe
+BEFORE
+ foo1  - 2014-03-08 16:57
+  foo3 baz  - 2014-03-08 16:57
+  foo2 blah  - 2014-03-08 16:57
+AFTER
+ foo44444  - 2014-03-08 16:57
+
+User 2062 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-22 00:01
+  foo2 blah  - 2013-12-22 00:01
+  foo1  - 2013-12-22 00:01
+AFTER
+ foo44444  - 2013-12-22 00:01
+
+User 7639 - John Doe
+BEFORE
+ foo1  - 2014-03-18 10:11
+  foo555  - 2014-03-18 10:11
+AFTER
+ bzzzz2  - 2014-03-18 10:11
+
+User 3552 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 893 - John Doe
+BEFORE
+ foo1  - 2013-11-27 09:36
+  foo66bsd  - 2013-11-27 09:36
+  foo555  - 2013-11-27 09:36
+AFTER
+ blaz1  - 2013-11-27 09:36
+
+User 4401 - John Doe
+BEFORE
+ foo1  - 2014-04-24 12:55
+  foo555  - 2014-04-24 12:55
+AFTER
+ bzzzz2  - 2014-04-24 12:55
+
+User 6680 - John Doe
+BEFORE
+ foo1  - 2013-09-12 09:24
+  foo3 baz  - 2013-09-12 09:24
+  foo2 blah  - 2013-09-12 09:24
+AFTER
+ foo44444  - 2013-09-12 09:24
+
+User 447 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2276 - John Doe
+BEFORE
+ foo1  - 2014-01-28 11:18
+AFTER
+ foo1  - 2014-01-28 11:18
+
+User 2709 - John Doe
+BEFORE
+ foo555  - 2014-01-30 11:51
+  foo66bsd  - 2014-01-30 11:51
+  foo1  - 2014-01-30 11:51
+AFTER
+ blaz1  - 2014-01-30 11:51
+
+User 4196 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2267 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-20 16:00
+  foo1  - 2014-01-20 16:00
+  foo3 baz  - 2014-01-20 16:00
+AFTER
+ foo44444  - 2014-01-20 16:00
+
+User 4620 - John Doe
+BEFORE
+ foo1  - 2014-04-24 12:20
+  foo555  - 2014-04-24 12:20
+AFTER
+ bzzzz2  - 2014-04-24 12:20
+
+User 67 - John Doe
+BEFORE
+ foo555  - 2013-07-11 14:39
+  foo1  - 2013-07-10 00:00
+AFTER
+ bzzzz2  - 2013-07-11 14:39
+
+User 166 - John Doe
+BEFORE
+ foo2 blah  - 2013-09-07 09:26
+AFTER
+ bzzz7  - 2013-09-07 09:26
+
+User 5942 - John Doe
+BEFORE
+ foo66bsd  - 2013-08-22 14:11
+  foo1  - 2013-08-27 11:54
+  foo555  - 2013-08-22 14:11
+AFTER
+ blaz1  - 2013-08-22 14:11
+
+User 5137 - John Doe
+BEFORE
+ foo555  - 2014-02-27 12:45
+  foo1  - 2014-02-27 12:45
+AFTER
+ bzzzz2  - 2014-02-27 12:45
+
+User 101 - John Doe
+BEFORE
+ foo1  - 2013-06-19 10:05
+  foo2 blah  - 2015-03-20 00:00
+  foo3 baz  - 2015-03-20 00:00
+AFTER
+ foo44444  - 2015-03-20 00:00
+
+User 8275 - John Doe
+BEFORE
+ foo1  - 2014-02-25 10:39
+  foo555  - 2014-02-25 10:39
+AFTER
+ bzzzz2  - 2014-02-25 10:39
+
+User 1656 - John Doe
+BEFORE
+ foo1  - 2013-10-31 08:10
+  foo3 baz  - 2013-10-31 08:10
+  foo2 blah  - 2013-10-31 08:10
+AFTER
+ foo44444  - 2013-10-31 08:10
+
+User 3785 - John Doe
+BEFORE
+ foo555  - 2014-03-30 11:57
+  foo1  - 2014-03-30 11:57
+AFTER
+ bzzzz2  - 2014-03-30 11:57
+
+User 1951 - John Doe
+BEFORE
+ foo1  - 2014-02-07 11:49
+  foo66bsd  - 2014-02-07 11:49
+  foo555  - 2014-02-07 11:49
+AFTER
+ blaz1  - 2014-02-07 11:49
+
+User 9534 - John Doe
+BEFORE
+ foo2 blah  - 2014-04-02 13:04
+  foo3 baz  - 2014-04-02 13:04
+  foo1  - 2014-04-02 13:04
+AFTER
+ foo44444  - 2014-04-02 13:04
+
+User 4036 - John Doe
+BEFORE
+ foo555  - 2013-11-03 00:00
+  foo1  - 2013-11-03 00:00
+AFTER
+ bzzzz2  - 2013-11-03 00:00
+
+User 2587 - John Doe
+BEFORE
+ foo555  - 2013-11-08 00:00
+  foo1  - 2013-11-08 00:00
+AFTER
+ bzzzz2  - 2013-11-08 00:00
+
+User 1971 - John Doe
+BEFORE
+ foo66bsd  - 2013-11-18 14:58
+  foo1  - 2013-11-18 14:58
+AFTER
+ blaz1  - 2013-11-18 14:58
+
+User 3739 - John Doe
+BEFORE
+ foo555  - 2014-03-27 12:00
+AFTER
+ bzzzz2  - 2014-03-27 12:00
+
+User 9477 - John Doe
+BEFORE
+ foo1  - 2014-05-20 16:29
+  foo66bsd  - 2014-04-20 07:36
+  foo555  - 2014-04-20 07:36
+AFTER
+ blaz1  - 2014-04-20 07:36
+
+User 5125 - John Doe
+BEFORE
+ foo555  - 2013-11-08 13:23
+  foo1  - 2013-11-08 13:23
+AFTER
+ bzzzz2  - 2013-11-08 13:23
+
+User 6660 - John Doe
+BEFORE
+ foo1  - 2013-09-11 09:39
+  foo66bsd  - 2013-09-11 09:39
+  foo555  - 2013-09-11 09:39
+AFTER
+ blaz1  - 2013-09-11 09:39
+
+User 7532 - John Doe
+BEFORE
+ foo1  - 2013-12-20 11:46
+  foo555  - 2013-12-20 11:37
+AFTER
+ bzzzz2  - 2013-12-20 11:37
+
+User 634 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 5397 - John Doe
+BEFORE
+ foo1  - 2013-06-21 13:29
+  foo555  - 2013-06-21 13:29
+AFTER
+ bzzzz2  - 2013-06-21 13:29
+
+User 7520 - John Doe
+BEFORE
+ foo555  - 2014-04-12 08:27
+  foo1  - 2014-04-12 08:27
+AFTER
+ bzzzz2  - 2014-04-12 08:27
+
+User 4881 - John Doe
+BEFORE
+ foo1  - 2013-05-11 11:10
+  foo3 baz  - 2013-05-11 11:10
+  foo2 blah  - 2013-05-11 11:10
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-11 11:10
+  foo2 blah  - 2013-05-11 11:10
+User 8816 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-21 06:52
+  foo3 baz  - 2014-02-21 06:52
+  foo1  - 2014-02-21 06:52
+AFTER
+ foo44444  - 2014-02-21 06:52
+
+User 9855 - John Doe
+BEFORE
+ bzz10  - 2014-04-18 20:25
+  foo1  - 2014-04-18 20:25
+AFTER
+ blaz44  - 2014-04-18 20:25
+
+User 5281 - John Doe
+BEFORE
+ foo1  - 2013-06-07 15:03
+  foo3 baz  - 2013-06-07 15:03
+  foo2 blah  - 2013-06-07 15:03
+AFTER
+ foo44444  - 2013-06-07 15:03
+
+User 2272 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-20 16:00
+  foo1  - 2014-01-20 16:00
+  foo3 baz  - 2014-01-20 16:00
+AFTER
+ foo44444  - 2014-01-20 16:00
+
+User 5622 - John Doe
+BEFORE
+ foo3 baz  - 2014-05-15 12:47
+  foo2 blah  - 2013-06-29 10:57
+  foo1  - 2013-06-29 10:57
+AFTER
+ foo44444  - 2014-05-15 12:47
+
+User 5605 - John Doe
+BEFORE
+ foo555  - 2013-07-17 11:43
+  foo1  - 2013-07-17 11:43
+AFTER
+ bzzzz2  - 2013-07-17 11:43
+
+User 2464 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 7880 - John Doe
+BEFORE
+ foo1  - 2013-12-13 15:39
+  foo555  - 2013-12-13 15:39
+AFTER
+ bzzzz2  - 2013-12-13 15:39
+
+User 780 - John Doe
+BEFORE
+ bzz10  - 2014-04-19 11:45
+  foo1  - 2014-04-19 11:45
+AFTER
+ blaz44  - 2014-04-19 11:45
+
+User 8891 - John Doe
+BEFORE
+ foo3 baz  - 2014-03-11 10:34
+  foo2 blah  - 2014-02-25 09:03
+AFTER
+ foo44444  - 2014-03-11 10:34
+
+User 4538 - John Doe
+BEFORE
+ foo1  - 2013-06-29 20:25
+  foo3 baz  - 2013-06-29 20:25
+  foo2 blah  - 2013-06-29 20:25
+AFTER
+ foo44444  - 2013-06-29 20:25
+
+User 2419 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 9244 - John Doe
+BEFORE
+ bzz10  - 2013-10-12 13:28
+  foo1  - 2013-10-12 13:28
+AFTER
+ blaz44  - 2013-10-12 13:28
+
+User 7469 - John Doe
+BEFORE
+ foo555  - 2014-01-15 07:56
+AFTER
+ bzzzz2  - 2014-01-15 07:56
+
+User 4959 - John Doe
+BEFORE
+ foo2 blah  - 2013-05-17 14:07
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-17 14:07
+User 5416 - John Doe
+BEFORE
+ foo1  - 2013-05-24 00:00
+  foo2 blah  - 2013-05-24 00:00
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-24 00:00
+User 5014 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2843 - John Doe
+BEFORE
+ foo1  - 2013-06-05 16:17
+  foo555  - 2013-06-05 16:17
+AFTER
+ bzzzz2  - 2013-06-05 16:17
+
+User 3668 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 701 - John Doe
+BEFORE
+ foo1  - 2013-10-15 13:42
+  foo66bsd  - 2013-06-05 18:29
+  foo555  - 2013-06-05 18:29
+AFTER
+ blaz1  - 2013-06-05 18:29
+
+User 2360 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-30 16:00
+  foo2 blah  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+AFTER
+ foo44444  - 2013-12-30 16:00
+
+User 6139 - John Doe
+BEFORE
+ foo1  - 2013-08-09 08:29
+  foo3 baz  - 2013-08-09 09:47
+  foo2 blah  - 2013-08-09 09:47
+AFTER
+ foo44444  - 2013-08-09 09:47
+
+User 7737 - John Doe
+BEFORE
+ foo1  - 2014-04-19 11:24
+  foo555  - 2014-04-19 11:24
+AFTER
+ bzzzz2  - 2014-04-19 11:24
+
+User 8079 - John Doe
+BEFORE
+ bzz10  - 2014-01-10 08:36
+AFTER
+ blaz44  - 2014-01-10 08:36
+
+User 1558 - John Doe
+BEFORE
+ foo1  - 2014-02-02 15:35
+  bzz10  - 2014-02-02 15:35
+AFTER
+ blaz44  - 2014-02-02 15:35
+
+User 6569 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-10 00:00
+  foo1  - 2013-11-10 00:00
+  foo3 baz  - 2013-11-10 00:00
+AFTER
+ foo44444  - 2013-11-10 00:00
+
+User 293 - John Doe
+BEFORE
+ foo1  - 2014-01-22 15:37
+  foo555  - 2014-01-22 15:37
+AFTER
+ bzzzz2  - 2014-01-22 15:37
+
+User 5602 - John Doe
+BEFORE
+ foo1  - 2013-07-06 11:53
+  foo555  - 2013-07-06 11:53
+AFTER
+ bzzzz2  - 2013-07-06 11:53
+
+User 3895 - John Doe
+BEFORE
+ foo555  - 2014-03-27 11:50
+  foo1  - 2014-03-27 11:50
+AFTER
+ bzzzz2  - 2014-03-27 11:50
+
+User 8042 - John Doe
+BEFORE
+ foo1  - 2014-01-09 12:58
+  bzz10  - 2014-01-09 12:58
+AFTER
+ blaz44  - 2014-01-09 12:58
+
+User 1521 - John Doe
+BEFORE
+ foo1  - 2013-10-05 16:17
+AFTER
+ foo1  - 2013-10-05 16:17
+
+User 6287 - John Doe
+BEFORE
+ foo1  - 2013-08-26 08:05
+AFTER
+ foo1  - 2013-08-26 08:05
+
+User 8915 - John Doe
+BEFORE
+ foo66bsd  - 2014-02-28 10:09
+  foo555  - 2014-02-27 11:00
+AFTER
+ blaz1  - 2014-02-28 10:09
+
+User 184 - John Doe
+BEFORE
+ foo1  - 2014-01-30 14:50
+  foo555  - 2014-01-30 14:50
+AFTER
+ bzzzz2  - 2014-01-30 14:50
+
+User 7958 - John Doe
+BEFORE
+ foo1  - 2014-05-16 17:07
+  bzz10  - 2014-05-16 17:07
+AFTER
+ blaz44  - 2014-05-16 17:07
+
+User 1890 - John Doe
+BEFORE
+ foo1  - 2013-09-24 14:33
+  bzz10  - 2013-10-27 18:52
+AFTER
+ blaz44  - 2013-10-27 18:52
+
+User 2556 - John Doe
+BEFORE
+ foo555  - 2013-12-18 13:52
+  foo1  - 2013-12-18 13:52
+AFTER
+ bzzzz2  - 2013-12-18 13:52
+
+User 387 - John Doe
+BEFORE
+ foo1  - 2014-01-10 15:08
+  foo66bsd  - 2014-01-10 15:08
+  foo555  - 2014-01-10 15:08
+AFTER
+ blaz1  - 2014-01-10 15:08
+
+User 6892 - John Doe
+BEFORE
+ foo66bsd  - 2013-11-30 00:00
+  foo1  - 2013-11-30 00:00
+  foo555  - 2013-11-30 00:00
+AFTER
+ blaz1  - 2013-11-30 00:00
+
+User 6572 - John Doe
+BEFORE
+ foo1  - 2013-08-29 17:03
+  foo555  - 2013-08-29 17:03
+AFTER
+ bzzzz2  - 2013-08-29 17:03
+
+User 1165 - John Doe
+BEFORE
+ foo1  - 2013-07-03 13:28
+  foo555  - 2013-07-03 13:28
+AFTER
+ bzzzz2  - 2013-07-03 13:28
+
+User 8821 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-20 14:31
+  foo1  - 2014-02-20 13:49
+AFTER
+ bzzz7  - 2014-02-20 14:31
+
+User 9410 - John Doe
+BEFORE
+ foo1  - 2014-03-26 13:01
+AFTER
+ foo1  - 2014-03-26 13:01
+
+User 2421 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 7943 - John Doe
+BEFORE
+ bzz10  - 2014-04-19 11:24
+  foo1  - 2014-04-19 11:24
+AFTER
+ blaz44  - 2014-04-19 11:24
+
+User 908 - John Doe
+BEFORE
+ foo1  - 2014-04-05 09:27
+  foo2 blah  - 2014-03-18 10:06
+  foo3 baz  - 2013-11-17 21:00
+AFTER
+ foo44444  - 2013-11-17 21:00
+
+User 6938 - John Doe
+BEFORE
+ foo1  - 2013-11-01 21:00
+  bzz10  - 2013-11-01 21:00
+AFTER
+ blaz44  - 2013-11-01 21:00
+
+User 6027 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-20 13:57
+  foo3 baz  - 2014-02-20 13:57
+  foo1  - 2014-02-20 13:57
+AFTER
+ foo44444  - 2014-02-20 13:57
+
+User 7226 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-30 21:00
+  foo1  - 2013-12-30 21:00
+  foo3 baz  - 2013-12-30 21:00
+AFTER
+ foo44444  - 2013-12-30 21:00
+
+User 4527 - John Doe
+BEFORE
+ foo1  - 2014-04-17 11:09
+  bzz10  - 2014-04-17 11:09
+AFTER
+ blaz44  - 2014-04-17 11:09
+
+User 214 - John Doe
+BEFORE
+ foo1  - 2014-02-06 14:38
+  foo555  - 2014-02-06 14:38
+AFTER
+ bzzzz2  - 2014-02-06 14:38
+
+User 2416 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 8336 - John Doe
+BEFORE
+ foo3 baz  - 2014-01-23 13:13
+  foo1  - 2014-01-23 13:13
+  foo2 blah  - 2014-01-23 13:13
+AFTER
+ foo44444  - 2014-01-23 13:13
+
+User 4573 - John Doe
+BEFORE
+ bzz10  - 2014-03-13 11:16
+  foo1  - 2014-03-13 11:16
+AFTER
+ blaz44  - 2014-03-13 11:16
+
+User 9362 - John Doe
+BEFORE
+ foo1  - 2014-03-25 11:30
+AFTER
+ foo1  - 2014-03-25 11:30
+
+User 3137 - John Doe
+BEFORE
+ foo555  - 2014-03-18 11:09
+  foo1  - 2014-03-18 11:09
+AFTER
+ bzzzz2  - 2014-03-18 11:09
+
+User 4885 - John Doe
+BEFORE
+ foo1  - 2013-05-11 13:09
+  foo3 baz  - 2013-05-11 13:09
+  foo2 blah  - 2013-05-11 13:09
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-11 13:09
+  foo2 blah  - 2013-05-11 13:09
+User 9408 - John Doe
+BEFORE
+ foo1  - 2014-03-26 13:01
+AFTER
+ foo1  - 2014-03-26 13:01
+
+User 2100 - John Doe
+BEFORE
+ foo1  - 2013-09-16 09:06
+  foo555  - 2013-08-31 15:20
+AFTER
+ bzzzz2  - 2013-08-31 15:20
+
+User 558 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 4164 - John Doe
+BEFORE
+ foo555  - 2014-04-03 11:16
+  foo1  - 2014-04-03 11:16
+AFTER
+ bzzzz2  - 2014-04-03 11:16
+
+User 4332 - John Doe
+BEFORE
+ foo555  - 2014-04-25 16:00
+  foo1  - 2014-04-25 16:00
+AFTER
+ bzzzz2  - 2014-04-25 16:00
+
+User 9350 - John Doe
+BEFORE
+ foo1  - 2014-03-25 11:30
+AFTER
+ foo1  - 2014-03-25 11:30
+
+User 2043 - John Doe
+BEFORE
+ foo1  - 2014-01-30 14:50
+  foo555  - 2014-01-30 14:50
+AFTER
+ bzzzz2  - 2014-01-30 14:50
+
+User 8092 - John Doe
+BEFORE
+ bzz10  - 2014-02-06 14:38
+  foo1  - 2014-02-06 14:38
+AFTER
+ blaz44  - 2014-02-06 14:38
+
+User 8642 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-11 15:22
+AFTER
+ bzzz7  - 2014-02-11 15:22
+
+User 9280 - John Doe
+BEFORE
+ bzz10  - 2014-03-19 09:21
+  foo1  - 2014-03-19 09:21
+AFTER
+ blaz44  - 2014-03-19 09:21
+
+User 6747 - John Doe
+BEFORE
+ foo555  - 2013-09-20 10:37
+AFTER
+ bzzzz2  - 2013-09-20 10:37
+
+User 912 - John Doe
+BEFORE
+ foo2 blah  - 2013-10-29 18:55
+  foo1  - 2013-10-29 18:55
+  foo3 baz  - 2013-11-23 09:57
+AFTER
+ foo44444  - 2013-11-23 09:57
+
+User 5093 - John Doe
+BEFORE
+ foo1  - 2013-06-01 14:14
+  foo2 blah  - 2013-06-01 14:14
+AFTER
+ bzzz7  - 2013-06-01 14:14
+
+User 5940 - John Doe
+BEFORE
+ foo555  - 2013-08-06 18:27
+AFTER
+ bzzzz2  - 2013-08-06 18:27
+
+User 2205 - John Doe
+BEFORE
+ foo66bsd  - 2013-12-14 10:13
+  foo555  - 2013-12-14 10:13
+  foo1  - 2013-12-14 10:13
+AFTER
+ blaz1  - 2013-12-14 10:13
+
+User 2366 - John Doe
+BEFORE
+ foo555  - 2014-03-05 07:50
+  foo1  - 2014-01-11 12:12
+AFTER
+ bzzzz2  - 2014-03-05 07:50
+
+User 8895 - John Doe
+BEFORE
+ foo1  - 2014-02-28 09:51
+  foo555  - 2014-02-28 09:51
+AFTER
+ bzzzz2  - 2014-02-28 09:51
+
+User 7146 - John Doe
+BEFORE
+ foo1  - 2013-10-14 08:45
+  foo66bsd  - 2013-10-14 08:45
+  foo555  - 2013-10-14 08:45
+AFTER
+ blaz1  - 2013-10-14 08:45
+
+User 7764 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+  foo2 blah  - 2013-12-30 16:00
+AFTER
+ foo44444  - 2013-12-30 16:00
+
+User 878 - John Doe
+BEFORE
+ foo555  - 2014-02-22 10:43
+  foo1  - 2014-02-22 10:43
+AFTER
+ bzzzz2  - 2014-02-22 10:43
+
+User 8826 - John Doe
+BEFORE
+ foo1  - 2014-02-20 15:22
+AFTER
+ foo1  - 2014-02-20 15:22
+
+User 4880 - John Doe
+BEFORE
+ foo1  - 2013-08-20 09:17
+AFTER
+ foo1  - 2013-08-20 09:17
+
+User 7987 - John Doe
+BEFORE
+ foo555  - 2014-03-18 11:15
+  foo1  - 2014-03-18 11:15
+AFTER
+ bzzzz2  - 2014-03-18 11:15
+
+User 62 - John Doe
+BEFORE
+ foo66bsd  - 2014-04-03 13:29
+  foo1  - 2014-04-03 13:29
+  foo555  - 2014-04-04 13:26
+AFTER
+ blaz1  - 2014-04-03 13:29
+
+User 419 - John Doe
+BEFORE
+ foo555  - 2014-02-04 15:20
+  foo1  - 2014-02-04 15:20
+AFTER
+ bzzzz2  - 2014-02-04 15:20
+
+User 1746 - John Doe
+BEFORE
+ foo555  - 2013-10-06 09:57
+  foo1  - 2014-02-10 10:35
+AFTER
+ bzzzz2  - 2013-10-06 09:57
+
+User 940 - John Doe
+BEFORE
+ foo555  - 2013-10-12 17:10
+  foo1  - 2014-03-14 11:05
+AFTER
+ bzzzz2  - 2013-10-12 17:10
+
+User 9407 - John Doe
+BEFORE
+ foo1  - 2014-03-26 13:01
+AFTER
+ foo1  - 2014-03-26 13:01
+
+User 3343 - John Doe
+BEFORE
+ foo1  - 2013-08-31 15:21
+  foo66bsd  - 2013-08-31 15:21
+  foo555  - 2013-08-31 15:21
+AFTER
+ blaz1  - 2013-08-31 15:21
+
+User 652 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ bzzz7  - 2013-12-31 00:00
+
+User 1142 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-06 13:25
+  foo1  - 2014-01-06 13:25
+  foo3 baz  - 2014-01-06 12:28
+AFTER
+ foo44444  - 2014-01-06 12:28
+
+User 2079 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-24 07:02
+  foo3 baz  - 2013-11-24 07:02
+  foo1  - 2013-11-24 07:02
+AFTER
+ foo44444  - 2013-11-24 07:02
+
+User 9265 - John Doe
+BEFORE
+ bzz10  - 2014-03-18 11:26
+AFTER
+ blaz44  - 2014-03-18 11:26
+
+User 7882 - John Doe
+BEFORE
+ bzz10  - 2013-12-13 15:39
+AFTER
+ blaz44  - 2013-12-13 15:39
+
+User 2583 - John Doe
+BEFORE
+ foo3 baz  - 2014-03-25 07:16
+  foo2 blah  - 2013-09-25 07:16
+AFTER
+ foo44444  - 2014-03-25 07:16
+
+User 291 - John Doe
+BEFORE
+ foo1  - 2014-01-01 00:00
+  foo3 baz  - 2014-02-01 00:00
+AFTER
+ foo44444  - 2014-02-01 00:00
+
+User 401 - John Doe
+BEFORE
+ foo555  - 2014-02-13 10:51
+  foo1  - 2014-02-13 10:51
+AFTER
+ bzzzz2  - 2014-02-13 10:51
+
+User 4825 - John Doe
+BEFORE
+ bzz10  - 2013-06-07 16:00
+AFTER
+ blaz44  - 2013-06-07 16:00
+
+User 7214 - John Doe
+BEFORE
+ foo1  - 2014-03-12 13:22
+  foo555  - 2014-03-12 13:22
+AFTER
+ bzzzz2  - 2014-03-12 13:22
+
+User 4356 - John Doe
+BEFORE
+ foo1  - 2013-08-10 09:08
+  foo555  - 2013-08-10 09:08
+AFTER
+ bzzzz2  - 2013-08-10 09:08
+
+User 2363 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-30 16:00
+  foo3 baz  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+AFTER
+ foo44444  - 2013-12-30 16:00
+
+User 8358 - John Doe
+BEFORE
+ bzz10  - 2014-01-18 13:42
+  foo1  - 2014-01-18 13:42
+AFTER
+ blaz44  - 2014-01-18 13:42
+
+User 6005 - John Doe
+BEFORE
+ foo1  - 2013-08-30 08:55
+  foo66bsd  - 2013-08-30 08:55
+  foo555  - 2013-08-30 08:55
+AFTER
+ blaz1  - 2013-08-30 08:55
+
+User 6937 - John Doe
+BEFORE
+ foo1  - 2013-11-01 21:00
+  bzz10  - 2013-11-01 21:00
+AFTER
+ blaz44  - 2013-11-01 21:00
+
+User 5680 - John Doe
+BEFORE
+ foo1  - 2014-01-20 15:07
+  foo66bsd  - 2014-01-20 15:07
+  foo555  - 2014-01-20 15:07
+AFTER
+ blaz1  - 2014-01-20 15:07
+
+User 7641 - John Doe
+BEFORE
+ foo1  - 2014-01-31 13:38
+  foo555  - 2014-01-31 13:38
+AFTER
+ bzzzz2  - 2014-01-31 13:38
+
+User 8373 - John Doe
+BEFORE
+ foo555  - 2014-02-07 14:21
+  foo1  - 2014-02-07 14:21
+AFTER
+ bzzzz2  - 2014-02-07 14:21
+
+User 2879 - John Doe
+BEFORE
+ foo2 blah  - 2013-08-26 11:22
+  foo3 baz  - 2013-08-26 11:22
+  foo1  - 2013-08-26 11:22
+AFTER
+ foo44444  - 2013-08-26 11:22
+
+User 5209 - John Doe
+BEFORE
+ foo555  - 2014-02-07 09:51
+  foo1  - 2014-02-07 09:51
+AFTER
+ bzzzz2  - 2014-02-07 09:51
+
+User 7573 - John Doe
+BEFORE
+ foo1  - 2013-11-18 07:35
+  foo3 baz  - 2013-11-18 07:35
+  foo2 blah  - 2013-11-18 07:35
+AFTER
+ foo44444  - 2013-11-18 07:35
+
+User 4822 - John Doe
+BEFORE
+ bzz10  - 2013-06-07 16:00
+AFTER
+ blaz44  - 2013-06-07 16:00
+
+User 5088 - John Doe
+BEFORE
+ foo1  - 2013-06-03 00:00
+AFTER
+ foo1  - 2013-06-03 00:00
+
+User 7921 - John Doe
+BEFORE
+ foo555  - 2014-02-22 11:52
+AFTER
+ bzzzz2  - 2014-02-22 11:52
+
+User 8588 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 1685 - John Doe
+BEFORE
+ foo1  - 2013-11-23 06:42
+  foo2 blah  - 2013-12-19 09:26
+AFTER
+ bzzz7  - 2013-12-19 09:26
+
+User 195 - John Doe
+BEFORE
+ foo555  - 2014-01-11 15:11
+  foo1  - 2014-01-10 11:39
+AFTER
+ bzzzz2  - 2014-01-11 15:11
+
+User 4818 - John Doe
+BEFORE
+ foo1  - 2014-05-20 14:40
+  foo3 baz  - 2014-05-20 14:40
+  foo2 blah  - 2014-05-20 14:40
+AFTER
+ foo44444  - 2014-05-20 14:40
+
+User 6458 - John Doe
+BEFORE
+ foo1  - 2014-03-01 20:27
+  bzz10  - 2014-02-20 13:16
+AFTER
+ blaz44  - 2014-02-20 13:16
+
+User 2457 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3058 - John Doe
+BEFORE
+ foo1  - 2013-08-27 15:59
+  foo555  - 2013-08-27 15:59
+AFTER
+ bzzzz2  - 2013-08-27 15:59
+
+User 9458 - John Doe
+BEFORE
+ foo555  - 2014-04-05 12:52
+  foo1  - 2014-04-05 12:52
+AFTER
+ bzzzz2  - 2014-04-05 12:52
+
+User 2475 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-30 16:00
+  foo3 baz  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+AFTER
+ foo44444  - 2013-12-30 16:00
+
+User 1740 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 4821 - John Doe
+BEFORE
+ bzz10  - 2013-06-07 16:00
+  foo1  - 2013-06-07 16:00
+AFTER
+ blaz44  - 2013-06-07 16:00
+
+User 5544 - John Doe
+BEFORE
+ foo1  - 2013-08-31 14:33
+  foo66bsd  - 2013-07-05 04:47
+  foo555  - 2013-07-05 04:47
+AFTER
+ blaz1  - 2013-07-05 04:47
+
+User 7761 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+AFTER
+ bzzz7  - 2013-12-30 16:00
+
+User 9109 - John Doe
+BEFORE
+ foo555  - 2014-03-11 10:45
+  foo1  - 2014-03-11 10:45
+AFTER
+ bzzzz2  - 2014-03-11 10:45
+
+User 8656 - John Doe
+BEFORE
+ foo555  - 2014-03-20 11:53
+  foo1  - 2014-03-20 11:53
+AFTER
+ bzzzz2  - 2014-03-20 11:53
+
+User 9548 - John Doe
+BEFORE
+ foo2 blah  - 2014-04-03 09:55
+  foo3 baz  - 2014-04-03 09:55
+AFTER
+ foo44444  - 2014-04-03 09:55
+
+User 1116 - John Doe
+BEFORE
+ bzz10  - 2014-04-16 08:00
+  foo1  - 2014-04-17 09:41
+AFTER
+ blaz44  - 2014-04-16 08:00
+
+User 8401 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3827 - John Doe
+BEFORE
+ foo1  - 2014-03-29 13:00
+  foo555  - 2014-03-29 13:00
+AFTER
+ bzzzz2  - 2014-03-29 13:00
+
+User 9349 - John Doe
+BEFORE
+ foo1  - 2013-09-20 08:25
+AFTER
+ foo1  - 2013-09-20 08:25
+
+User 9412 - John Doe
+BEFORE
+ foo1  - 2014-03-26 13:01
+AFTER
+ foo1  - 2014-03-26 13:01
+
+User 7147 - John Doe
+BEFORE
+ foo3 baz  - 2013-10-14 09:08
+  foo2 blah  - 2013-10-14 09:08
+  foo1  - 2013-10-14 09:08
+AFTER
+ foo44444  - 2013-10-14 09:08
+
+User 5335 - John Doe
+BEFORE
+ foo2 blah  - 2013-06-12 13:26
+  foo3 baz  - 2013-06-12 13:26
+  foo1  - 2013-06-12 13:26
+AFTER
+ foo44444  - 2013-06-12 13:26
+
+User 1526 - John Doe
+BEFORE
+ foo1  - 2023-04-09 16:36
+  foo555  - 2023-04-09 16:36
+AFTER
+ bzzzz2  - 2023-04-09 16:36
+
+User 6249 - John Doe
+BEFORE
+ foo555  - 2013-09-01 12:21
+  foo66bsd  - 2013-09-01 12:32
+AFTER
+ blaz1  - 2013-09-01 12:32
+
+User 2497 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 1564 - John Doe
+BEFORE
+ foo1  - 2013-11-20 10:49
+  foo555  - 2013-11-20 10:49
+AFTER
+ bzzzz2  - 2013-11-20 10:49
+
+User 2495 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3862 - John Doe
+BEFORE
+ foo555  - 2014-01-30 16:29
+  foo1  - 2014-01-30 16:29
+AFTER
+ bzzzz2  - 2014-01-30 16:29
+
+User 7894 - John Doe
+BEFORE
+ foo1  - 2013-12-16 11:40
+  foo555  - 2013-12-16 11:40
+AFTER
+ bzzzz2  - 2013-12-16 11:40
+
+User 61 - John Doe
+BEFORE
+ foo1  - 2014-04-19 11:45
+  foo555  - 2014-04-19 11:45
+AFTER
+ bzzzz2  - 2014-04-19 11:45
+
+User 2424 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 5439 - John Doe
+BEFORE
+ foo1  - 2013-06-22 12:24
+  foo555  - 2013-06-22 12:24
+AFTER
+ bzzzz2  - 2013-06-22 12:24
+
+User 2462 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 6736 - John Doe
+BEFORE
+ foo1  - 2014-01-30 08:29
+  foo555  - 2014-01-30 08:29
+AFTER
+ bzzzz2  - 2014-01-30 08:29
+
+User 4541 - John Doe
+BEFORE
+ foo66bsd  - 2013-06-03 00:00
+  foo555  - 2013-06-03 00:00
+AFTER
+ blaz1  - 2013-06-03 00:00
+
+User 7890 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-01 00:00
+  foo3 baz  - 2013-12-01 00:00
+  foo1  - 2013-12-01 00:00
+AFTER
+ foo44444  - 2013-12-01 00:00
+
+User 3975 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 6985 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-05 00:00
+  foo1  - 2013-11-05 00:00
+AFTER
+ bzzz7  - 2013-11-05 00:00
+
+User 3555 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2410 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2910 - John Doe
+BEFORE
+ foo1  - 2013-11-28 00:00
+  foo555  - 2013-11-28 00:00
+  foo66bsd  - 2013-11-28 00:00
+AFTER
+ blaz1  - 2013-11-28 00:00
+
+User 2796 - John Doe
+BEFORE
+ foo2 blah  - 2014-03-11 10:34
+AFTER
+ bzzz7  - 2014-03-11 10:34
+
+User 2153 - John Doe
+BEFORE
+ foo1  - 2013-07-25 18:30
+  foo555  - 2013-07-25 18:30
+AFTER
+ bzzzz2  - 2013-07-25 18:30
+
+User 2413 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 1736 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3947 - John Doe
+BEFORE
+ foo3 baz  - 2014-03-05 15:29
+  foo2 blah  - 2014-03-05 15:29
+AFTER
+ foo44444  - 2014-03-05 15:29
+
+User 4955 - John Doe
+BEFORE
+ foo3 baz  - 2013-05-17 13:26
+  foo2 blah  - 2013-05-17 13:26
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-17 13:26
+  foo2 blah  - 2013-05-17 13:26
+User 2423 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3675 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 4055 - John Doe
+BEFORE
+ foo1  - 2013-12-10 13:27
+  foo3 baz  - 2013-12-10 13:27
+  foo2 blah  - 2013-12-10 13:27
+AFTER
+ foo44444  - 2013-12-10 13:27
+
+User 4344 - John Doe
+BEFORE
+ bzz10  - 2013-07-05 10:44
+  foo1  - 2013-09-27 10:00
+AFTER
+ blaz44  - 2013-07-05 10:44
+
+User 8916 - John Doe
+BEFORE
+ bzz10  - 2014-02-26 10:53
+  foo1  - 2014-02-26 10:53
+AFTER
+ blaz44  - 2014-02-26 10:53
+
+User 7878 - John Doe
+BEFORE
+ foo1  - 2013-12-13 15:20
+  foo3 baz  - 2013-12-13 15:20
+  foo2 blah  - 2013-12-13 15:20
+AFTER
+ foo44444  - 2013-12-13 15:20
+
+User 3559 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 632 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 750 - John Doe
+BEFORE
+ foo66bsd  - 2013-10-05 16:17
+AFTER
+ blaz1  - 2013-10-05 16:17
+
+User 2402 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2503 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 1940 - John Doe
+BEFORE
+ foo1  - 2013-12-04 15:56
+  bzz10  - 2013-12-04 15:56
+AFTER
+ blaz44  - 2013-12-04 15:56
+
+User 8736 - John Doe
+BEFORE
+ foo1  - 2014-01-31 00:00
+  foo3 baz  - 2014-01-31 00:00
+  foo2 blah  - 2014-01-31 00:00
+AFTER
+ foo44444  - 2014-01-31 00:00
+
+User 3565 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3620 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3621 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 8795 - John Doe
+BEFORE
+ bzz10  - 2014-02-20 13:22
+  foo1  - 2014-02-20 13:22
+AFTER
+ blaz44  - 2014-02-20 13:22
+
+User 3623 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3622 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3567 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 4893 - John Doe
+BEFORE
+ foo2 blah  - 2013-05-11 15:38
+  foo3 baz  - 2013-05-11 15:38
+  foo1  - 2013-05-11 15:38
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-11 15:38
+  foo3 baz  - 2013-05-11 15:38
+User 4958 - John Doe
+BEFORE
+ foo1  - 2014-04-05 08:15
+AFTER
+ foo1  - 2014-04-05 08:15
+
+User 4148 - John Doe
+BEFORE
+ foo1  - 2013-08-30 10:25
+  foo3 baz  - 2013-08-30 10:25
+  foo2 blah  - 2013-08-30 10:25
+AFTER
+ foo44444  - 2013-08-30 10:25
+
+User 5277 - John Doe
+BEFORE
+ foo1  - 2013-06-07 10:56
+  foo2 blah  - 2013-06-07 10:56
+AFTER
+ bzzz7  - 2013-06-07 10:56
+
+User 3419 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-21 08:47
+  foo3 baz  - 2014-02-21 08:47
+  foo1  - 2014-02-21 08:47
+AFTER
+ foo44444  - 2014-02-21 08:47
+
+User 2736 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 5009 - John Doe
+BEFORE
+ foo2 blah  - 2013-07-19 00:00
+  foo3 baz  - 2013-07-19 00:00
+  foo1  - 2013-07-19 00:00
+AFTER
+ foo44444  - 2013-07-19 00:00
+
+User 6575 - John Doe
+BEFORE
+ foo555  - 2014-04-03 07:18
+  foo66bsd  - 2014-04-03 07:18
+  foo1  - 2014-04-03 07:18
+AFTER
+ blaz1  - 2014-04-03 07:18
+
+User 2370 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2108 - John Doe
+BEFORE
+ foo1  - 2013-07-19 10:45
+  foo555  - 2013-07-19 10:45
+  foo66bsd  - 2013-07-19 10:45
+AFTER
+ blaz1  - 2013-07-19 10:45
+
+User 3634 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 1084 - John Doe
+BEFORE
+ foo1  - 2013-06-08 00:00
+  foo555  - 2013-06-08 14:19
+AFTER
+ bzzzz2  - 2013-06-08 14:19
+
+User 4574 - John Doe
+BEFORE
+ foo1  - 2014-03-13 11:16
+  bzz10  - 2014-03-13 11:16
+AFTER
+ blaz44  - 2014-03-13 11:16
+
+User 5555 - John Doe
+BEFORE
+ foo1  - 2013-10-12 14:26
+  foo3 baz  - 2013-10-12 14:26
+  foo2 blah  - 2013-10-12 14:26
+AFTER
+ foo44444  - 2013-10-12 14:26
+
+User 6521 - John Doe
+BEFORE
+ foo2 blah  - 2013-08-24 14:56
+  foo3 baz  - 2013-08-24 14:56
+  foo1  - 2013-08-24 14:56
+AFTER
+ foo44444  - 2013-08-24 14:56
+
+User 2455 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 580 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+AFTER
+ bzzz7  - 2013-12-30 16:00
+
+User 2965 - John Doe
+BEFORE
+ foo1  - 2013-08-17 08:08
+  foo555  - 2013-08-17 08:08
+AFTER
+ bzzzz2  - 2013-08-17 08:08
+
+User 639 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3551 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3883 - John Doe
+BEFORE
+ foo3 baz  - 2013-05-24 00:00
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-24 00:00
+User 165 - John Doe
+BEFORE
+ foo1  - 2013-05-26 00:00
+  foo2 blah  - 2013-05-26 00:00
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-26 00:00
+User 6562 - John Doe
+BEFORE
+ foo555  - 2013-11-08 00:00
+  foo1  - 2013-11-08 00:00
+AFTER
+ bzzzz2  - 2013-11-08 00:00
+
+User 5317 - John Doe
+BEFORE
+ foo1  - 2013-06-11 09:17
+AFTER
+ foo1  - 2013-06-11 09:17
+
+User 2389 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2328 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 4224 - John Doe
+BEFORE
+ foo66bsd  - 2013-05-29 11:18
+  foo555  - 2013-05-29 07:59
+AFTER
+ blaz1  - 2013-05-29 11:18
+
+User 5714 - John Doe
+BEFORE
+ foo3 baz  - 2013-07-06 11:45
+  foo1  - 2013-07-06 11:45
+  foo2 blah  - 2013-07-06 11:45
+AFTER
+ foo44444  - 2013-07-06 11:45
+
+User 917 - John Doe
+BEFORE
+ foo1  - 2013-11-11 00:00
+  foo555  - 2013-11-11 00:00
+AFTER
+ bzzzz2  - 2013-11-11 00:00
+
+User 5282 - John Doe
+BEFORE
+ foo2 blah  - 2013-06-07 15:01
+AFTER
+ bzzz7  - 2013-06-07 15:01
+
+User 554 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 5901 - John Doe
+BEFORE
+ foo1  - 2014-02-18 09:08
+  foo66bsd  - 2014-02-18 09:08
+  foo555  - 2014-02-18 09:08
+AFTER
+ blaz1  - 2014-02-18 09:08
+
+User 4886 - John Doe
+BEFORE
+ foo1  - 2013-05-11 13:29
+  foo3 baz  - 2013-05-11 13:29
+  foo2 blah  - 2013-05-11 13:29
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-11 13:29
+  foo2 blah  - 2013-05-11 13:29
+User 5805 - John Doe
+BEFORE
+ foo1  - 2013-07-13 12:10
+  bzz10  - 2013-07-13 12:10
+AFTER
+ blaz44  - 2013-07-13 12:10
+
+User 7413 - John Doe
+BEFORE
+ foo1  - 2013-11-20 10:47
+  bzz10  - 2013-11-20 10:47
+AFTER
+ blaz44  - 2013-11-20 10:47
+
+User 6052 - John Doe
+BEFORE
+ foo1  - 2013-08-17 13:25
+  foo2 blah  - 2013-08-17 13:25
+AFTER
+ bzzz7  - 2013-08-17 13:25
+
+User 3977 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 6919 - John Doe
+BEFORE
+ foo555  - 2013-11-08 00:00
+  foo1  - 2013-11-08 00:00
+AFTER
+ bzzzz2  - 2013-11-08 00:00
+
+User 2050 - John Doe
+BEFORE
+ foo555  - 2013-11-09 11:58
+  foo1  - 2013-11-09 11:58
+AFTER
+ bzzzz2  - 2013-11-09 11:58
+
+User 7736 - John Doe
+BEFORE
+ bzz10  - 2013-06-07 16:00
+  foo1  - 2013-06-07 16:00
+AFTER
+ blaz44  - 2013-06-07 16:00
+
+User 6288 - John Doe
+BEFORE
+ foo1  - 2013-08-26 08:05
+AFTER
+ foo1  - 2013-08-26 08:05
+
+User 3557 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2815 - John Doe
+BEFORE
+ foo1  - 2013-07-10 10:07
+  foo3 baz  - 2013-07-10 10:07
+AFTER
+ foo44444  - 2013-07-10 10:07
+
+User 7763 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+AFTER
+ bzzz7  - 2013-12-30 16:00
+
+User 3803 - John Doe
+BEFORE
+ foo1  - 2013-06-25 13:43
+  foo66bsd  - 2013-06-25 13:43
+  foo555  - 2013-06-25 13:43
+AFTER
+ blaz1  - 2013-06-25 13:43
+
+User 2369 - John Doe
+BEFORE
+ foo555  - 2014-03-07 18:45
+  foo1  - 2014-01-21 06:41
+AFTER
+ bzzzz2  - 2014-03-07 18:45
+
+User 3561 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 1974 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 8252 - John Doe
+BEFORE
+ foo1  - 2014-02-04 16:54
+  foo66bsd  - 2014-02-04 16:54
+  foo555  - 2014-02-04 16:54
+AFTER
+ blaz1  - 2014-02-04 16:54
+
+User 8043 - John Doe
+BEFORE
+ foo1  - 2014-01-09 12:58
+  bzz10  - 2014-01-09 12:58
+AFTER
+ blaz44  - 2014-01-09 12:58
+
+User 6913 - John Doe
+BEFORE
+ foo3 baz  - 2013-10-18 15:46
+  foo2 blah  - 2013-10-18 15:46
+  foo1  - 2013-10-18 15:46
+AFTER
+ foo44444  - 2013-10-18 15:46
+
+User 8513 - John Doe
+BEFORE
+ bzz10  - 2014-02-04 15:20
+  foo1  - 2014-02-04 15:20
+AFTER
+ blaz44  - 2014-02-04 15:20
+
+User 7129 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-14 06:35
+AFTER
+ bzzz7  - 2014-02-14 06:35
+
+User 6827 - John Doe
+BEFORE
+ foo1  - 2013-08-23 13:50
+  foo555  - 2013-08-23 13:50
+AFTER
+ bzzzz2  - 2013-08-23 13:50
+
+User 2401 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 6940 - John Doe
+BEFORE
+ bzz10  - 2013-11-01 21:00
+  foo1  - 2013-11-01 00:00
+AFTER
+ blaz44  - 2013-11-01 21:00
+
+User 6228 - John Doe
+BEFORE
+ foo3 baz  - 2013-08-15 09:13
+  foo2 blah  - 2013-08-15 09:13
+  foo1  - 2013-08-15 09:13
+AFTER
+ foo44444  - 2013-08-15 09:13
+
+User 3410 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 8450 - John Doe
+BEFORE
+ bzz10  - 2014-01-30 16:29
+  foo1  - 2014-01-30 16:29
+AFTER
+ blaz44  - 2014-01-30 16:29
+
+User 7893 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-16 00:00
+  foo1  - 2013-12-16 10:04
+  foo555  - 2013-12-16 10:04
+AFTER
+ bzzzz2  - 2013-12-16 10:04
+  foo44444  - 2013-12-16 00:00
+
+User 4214 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 7474 - John Doe
+BEFORE
+ foo555  - 2014-01-15 07:55
+AFTER
+ bzzzz2  - 2014-01-15 07:55
+
+User 7475 - John Doe
+BEFORE
+ foo555  - 2014-01-15 07:57
+AFTER
+ bzzzz2  - 2014-01-15 07:57
+
+User 5869 - John Doe
+BEFORE
+ foo2 blah  - 2013-07-19 00:00
+  foo3 baz  - 2013-07-19 00:00
+  foo1  - 2013-07-19 00:00
+AFTER
+ foo44444  - 2013-07-19 00:00
+
+User 6752 - John Doe
+BEFORE
+ bzz10  - 2013-10-08 19:12
+  foo1  - 2013-10-08 19:12
+AFTER
+ blaz44  - 2013-10-08 19:12
+
+User 3665 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 7876 - John Doe
+BEFORE
+ foo1  - 2013-12-13 14:48
+AFTER
+ foo1  - 2013-12-13 14:48
+
+User 7881 - John Doe
+BEFORE
+ foo1  - 2013-12-13 15:42
+  foo555  - 2013-12-13 15:42
+AFTER
+ bzzzz2  - 2013-12-13 15:42
+
+User 5433 - John Doe
+BEFORE
+ foo555  - 2013-10-25 00:00
+  foo1  - 2013-10-25 00:00
+AFTER
+ bzzzz2  - 2013-10-25 00:00
+
+User 2740 - John Doe
+BEFORE
+ foo1  - 2013-08-27 08:15
+  foo3 baz  - 2013-08-27 08:15
+  foo2 blah  - 2013-08-27 08:15
+AFTER
+ foo44444  - 2013-08-27 08:15
+
+User 7883 - John Doe
+BEFORE
+ bzz10  - 2013-12-13 15:42
+AFTER
+ blaz44  - 2013-12-13 15:42
+
+User 386 - John Doe
+BEFORE
+ foo2 blah  - 2014-04-30 08:08
+  foo1  - 2014-04-30 08:08
+AFTER
+ bzzz7  - 2014-04-30 08:08
+
+User 5762 - John Doe
+BEFORE
+ foo555  - 2013-12-18 08:21
+AFTER
+ bzzzz2  - 2013-12-18 08:21
+
+User 1997 - John Doe
+BEFORE
+ foo1  - 2013-11-23 06:42
+  foo2 blah  - 2013-11-23 06:42
+AFTER
+ bzzz7  - 2013-11-23 06:42
+
+User 7767 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-30 16:00
+  foo3 baz  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+AFTER
+ foo44444  - 2013-12-30 16:00
+
+User 2415 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 1703 - John Doe
+BEFORE
+ foo555  - 2013-09-27 11:13
+  foo1  - 2013-09-27 11:13
+AFTER
+ bzzzz2  - 2013-09-27 11:13
+
+User 7891 - John Doe
+BEFORE
+ foo555  - 2014-03-21 07:35
+  foo66bsd  - 2014-03-21 07:35
+  foo1  - 2014-03-21 07:35
+AFTER
+ blaz1  - 2014-03-21 07:35
+
+User 853 - John Doe
+BEFORE
+ foo3 baz  - 2013-05-11 08:44
+  foo2 blah  - 2013-05-11 08:44
+  foo1  - 2013-05-11 08:44
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-11 08:44
+  foo2 blah  - 2013-05-11 08:44
+User 1542 - John Doe
+BEFORE
+ foo1  - 2013-09-24 21:37
+  foo2 blah  - 2013-09-24 21:37
+AFTER
+ bzzz7  - 2013-09-24 21:37
+
+User 1998 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-29 13:59
+AFTER
+ bzzz7  - 2014-01-29 13:59
+
+User 985 - John Doe
+BEFORE
+ bzz10  - 2013-12-04 15:56
+  foo1  - 2013-12-03 00:00
+AFTER
+ blaz44  - 2013-12-04 15:56
+
+User 50 - John Doe
+BEFORE
+ foo1  - 2014-04-18 14:19
+  foo555  - 2014-04-18 14:19
+AFTER
+ bzzzz2  - 2014-04-18 14:19
+
+User 5698 - John Doe
+BEFORE
+ foo1  - 2014-03-19 08:15
+  foo66bsd  - 2014-02-21 12:58
+  foo555  - 2014-02-21 12:58
+AFTER
+ blaz1  - 2014-02-21 12:58
+
+User 1117 - John Doe
+BEFORE
+ foo66bsd  - 2014-03-19 16:44
+  foo1  - 2014-03-19 16:44
+  foo555  - 2014-03-19 16:44
+AFTER
+ blaz1  - 2014-03-19 16:44
+
+User 5132 - John Doe
+BEFORE
+ foo555  - 2014-02-28 08:21
+  foo1  - 2014-02-28 08:21
+AFTER
+ bzzzz2  - 2014-02-28 08:21
+
+User 2483 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2377 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 19 - John Doe
+BEFORE
+ foo1  - 2013-05-12 00:00
+  foo2 blah  - 2013-05-12 00:00
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-12 00:00
+User 4655 - John Doe
+BEFORE
+ foo555  - 2014-05-19 15:45
+AFTER
+ bzzzz2  - 2014-05-19 15:45
+
+User 9528 - John Doe
+BEFORE
+ foo2 blah  - 2013-06-05 09:02
+  foo3 baz  - 2013-06-05 09:02
+AFTER
+ foo44444  - 2013-06-05 09:02
+
+User 758 - John Doe
+BEFORE
+ foo555  - 2014-04-08 10:34
+AFTER
+ bzzzz2  - 2014-04-08 10:34
+
+User 70 - John Doe
+BEFORE
+ foo2 blah  - 2013-05-31 16:09
+  foo3 baz  - 2013-05-30 00:00
+  foo1  - 2013-08-24 14:48
+AFTER
+ foo44444  - 2013-05-30 00:00
+
+User 6987 - John Doe
+BEFORE
+ foo3 baz  - 2013-11-05 00:00
+  foo2 blah  - 2013-11-05 00:00
+  foo1  - 2013-11-05 00:00
+AFTER
+ foo44444  - 2013-11-05 00:00
+
+User 9454 - John Doe
+BEFORE
+ foo2 blah  - 2014-04-03 09:27
+  foo3 baz  - 2014-04-03 09:27
+  foo1  - 2014-04-03 09:27
+AFTER
+ foo44444  - 2014-04-03 09:27
+
+User 8311 - John Doe
+BEFORE
+ foo1  - 2014-04-24 14:47
+  foo555  - 2014-04-24 14:47
+AFTER
+ bzzzz2  - 2014-04-24 14:47
+
+User 3671 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 5373 - John Doe
+BEFORE
+ foo1  - 2013-08-28 13:42
+AFTER
+ foo1  - 2013-08-28 13:42
+
+User 7126 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+AFTER
+ bzzz7  - 2013-12-30 16:00
+
+User 1598 - John Doe
+BEFORE
+ foo1  - 2013-08-22 11:35
+  foo66bsd  - 2013-08-22 11:35
+  foo555  - 2013-08-22 11:35
+AFTER
+ blaz1  - 2013-08-22 11:35
+
+User 10231 - John Doe
+BEFORE
+ bzz10  - 2014-05-14 10:09
+  foo1  - 2014-05-14 10:09
+AFTER
+ blaz44  - 2014-05-14 10:09
+
+User 189 - John Doe
+BEFORE
+ foo1  - 2013-12-20 11:27
+  foo555  - 2013-12-20 11:27
+AFTER
+ bzzzz2  - 2013-12-20 11:27
+
+User 724 - John Doe
+BEFORE
+ foo1  - 2013-08-23 16:20
+  foo3 baz  - 2013-08-01 00:00
+  foo2 blah  - 2014-04-18 13:29
+AFTER
+ foo44444  - 2013-08-01 00:00
+
+User 4285 - John Doe
+BEFORE
+ foo1  - 2013-08-28 13:41
+AFTER
+ foo1  - 2013-08-28 13:41
+
+User 3677 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 9060 - John Doe
+BEFORE
+ foo1  - 2014-05-23 13:16
+  foo555  - 2014-05-23 13:16
+AFTER
+ bzzzz2  - 2014-05-23 13:16
+
+User 7222 - John Doe
+BEFORE
+ foo66bsd  - 2014-11-05 14:31
+  foo555  - 2014-11-05 14:31
+AFTER
+ blaz1  - 2014-11-05 14:31
+
+User 2539 - John Doe
+BEFORE
+ foo1  - 2014-01-20 16:00
+AFTER
+ foo1  - 2014-01-20 16:00
+
+User 7370 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+  foo1  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 6986 - John Doe
+BEFORE
+ foo3 baz  - 2013-11-05 00:00
+  foo2 blah  - 2013-11-05 00:00
+  foo1  - 2013-11-05 00:00
+AFTER
+ foo44444  - 2013-11-05 00:00
+
+User 6652 - John Doe
+BEFORE
+ foo555  - 2013-09-06 09:30
+  foo66bsd  - 2013-09-06 09:30
+  foo1  - 2013-09-06 09:30
+AFTER
+ blaz1  - 2013-09-06 09:30
+
+User 810 - John Doe
+BEFORE
+ foo1  - 2014-05-10 07:45
+  foo3 baz  - 2014-05-10 07:45
+  foo2 blah  - 2014-05-10 07:45
+AFTER
+ foo44444  - 2014-05-10 07:45
+
+User 2582 - John Doe
+BEFORE
+ foo3 baz  - 2014-01-19 10:30
+  foo1  - 2014-01-19 10:30
+  foo2 blah  - 2014-01-19 10:30
+AFTER
+ foo44444  - 2014-01-19 10:30
+
+User 8150 - John Doe
+BEFORE
+ foo1  - 2014-03-01 07:32
+  foo555  - 2014-03-01 07:32
+AFTER
+ bzzzz2  - 2014-03-01 07:32
+
+User 880 - John Doe
+BEFORE
+ foo1  - 2013-09-24 21:37
+  foo2 blah  - 2013-09-24 21:37
+AFTER
+ bzzz7  - 2013-09-24 21:37
+
+User 2261 - John Doe
+BEFORE
+ foo3 baz  - 2014-01-29 11:18
+  foo2 blah  - 2014-01-28 16:00
+  foo1  - 2014-01-28 16:00
+AFTER
+ foo44444  - 2014-01-29 11:18
+
+User 9178 - John Doe
+BEFORE
+ foo555  - 2014-04-09 07:52
+  foo1  - 2014-04-09 07:52
+AFTER
+ bzzzz2  - 2014-04-09 07:52
+
+User 2411 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 7093 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+  foo1  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 811 - John Doe
+BEFORE
+ foo1  - 2013-12-15 00:00
+  foo3 baz  - 2013-12-15 00:00
+  foo2 blah  - 2013-12-15 00:00
+AFTER
+ foo44444  - 2013-12-15 00:00
+
+User 10291 - John Doe
+BEFORE
+ foo1  - 2014-05-17 10:25
+  foo3 baz  - 2014-05-17 10:25
+AFTER
+ foo44444  - 2014-05-17 10:25
+
+User 955 - John Doe
+BEFORE
+ foo1  - 2014-04-24 14:06
+  foo555  - 2014-04-24 14:06
+AFTER
+ bzzzz2  - 2014-04-24 14:06
+
+User 761 - John Doe
+BEFORE
+ foo555  - 2014-03-25 08:37
+AFTER
+ bzzzz2  - 2014-03-25 08:37
+
+User 117 - John Doe
+BEFORE
+ foo1  - 2013-06-21 20:48
+AFTER
+ foo1  - 2013-06-21 20:48
+
+User 637 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 141 - John Doe
+BEFORE
+ foo555  - 2013-08-05 14:57
+  foo1  - 2013-09-18 13:28
+AFTER
+ bzzzz2  - 2013-08-05 14:57
+
+User 7593 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-21 12:15
+  foo3 baz  - 2013-11-21 12:15
+  foo1  - 2013-11-21 12:15
+AFTER
+ foo44444  - 2013-11-21 12:15
+
+User 555 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 7004 - John Doe
+BEFORE
+ foo66bsd  - 2014-01-21 16:27
+  foo1  - 2013-11-01 11:37
+  foo555  - 2013-11-01 11:37
+AFTER
+ blaz1  - 2014-01-21 16:27
+
+User 2418 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 7591 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-01 00:00
+  foo3 baz  - 2014-01-01 00:00
+  foo1  - 2014-01-01 00:00
+AFTER
+ foo44444  - 2014-01-01 00:00
+
+User 5941 - John Doe
+BEFORE
+ foo1  - 2013-10-07 08:55
+  bzz10  - 2013-10-07 08:55
+AFTER
+ blaz44  - 2013-10-07 08:55
+
+User 4778 - John Doe
+BEFORE
+ foo1  - 2013-10-09 11:16
+  bzz10  - 2013-10-09 11:16
+AFTER
+ blaz44  - 2013-10-09 11:16
+
+User 5732 - John Doe
+BEFORE
+ foo555  - 2014-05-06 09:46
+AFTER
+ bzzzz2  - 2014-05-06 09:46
+
+User 4776 - John Doe
+BEFORE
+ bzz10  - 2013-10-09 11:16
+  foo1  - 2013-10-09 11:16
+AFTER
+ blaz44  - 2013-10-09 11:16
+
+User 2786 - John Doe
+BEFORE
+ foo1  - 2014-02-14 10:42
+  foo555  - 2014-02-14 10:42
+AFTER
+ bzzzz2  - 2014-02-14 10:42
+
+User 1459 - John Doe
+BEFORE
+ foo1  - 2013-07-31 09:35
+  foo66bsd  - 2013-07-31 09:35
+  foo555  - 2013-07-31 09:35
+AFTER
+ blaz1  - 2013-07-31 09:35
+
+User 7186 - John Doe
+BEFORE
+ foo1  - 2014-05-16 15:24
+  foo555  - 2014-05-16 15:24
+AFTER
+ bzzzz2  - 2014-05-16 15:24
+
+User 807 - John Doe
+BEFORE
+ foo1  - 2013-12-15 00:00
+  foo3 baz  - 2013-12-15 00:00
+  foo2 blah  - 2013-12-15 00:00
+AFTER
+ foo44444  - 2013-12-15 00:00
+
+User 5457 - John Doe
+BEFORE
+ foo2 blah  - 2013-07-18 16:57
+  foo3 baz  - 2013-07-18 16:57
+  foo1  - 2013-07-18 16:57
+AFTER
+ foo44444  - 2013-07-18 16:57
+
+User 6753 - John Doe
+BEFORE
+ foo555  - 2013-11-01 00:00
+  foo1  - 2013-11-01 00:00
+  foo66bsd  - 2013-11-01 00:00
+AFTER
+ blaz1  - 2013-11-01 00:00
+
+User 804 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-15 00:00
+  foo2 blah  - 2013-12-15 00:00
+  foo1  - 2013-12-15 00:00
+AFTER
+ foo44444  - 2013-12-15 00:00
+
+User 8361 - John Doe
+BEFORE
+ foo1  - 2014-01-24 14:04
+AFTER
+ foo1  - 2014-01-24 14:04
+
+User 6216 - John Doe
+BEFORE
+ foo1  - 2013-08-14 08:38
+  foo66bsd  - 2013-08-14 08:38
+  foo555  - 2013-08-14 08:38
+AFTER
+ blaz1  - 2013-08-14 08:38
+
+User 2488 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 1917 - John Doe
+BEFORE
+ foo1  - 2014-03-22 14:31
+  foo2 blah  - 2014-03-22 14:31
+  foo3 baz  - 2013-12-13 10:52
+AFTER
+ foo44444  - 2013-12-13 10:52
+
+User 23 - John Doe
+BEFORE
+ foo2 blah  - 2013-10-11 12:36
+  foo1  - 2013-10-11 12:36
+  foo3 baz  - 2013-10-28 10:29
+AFTER
+ foo44444  - 2013-10-28 10:29
+
+User 3369 - John Doe
+BEFORE
+ foo1  - 2013-10-18 15:44
+  foo2 blah  - 2013-10-18 15:44
+  foo3 baz  - 2013-10-18 15:44
+AFTER
+ foo44444  - 2013-10-18 15:44
+
+User 7 - John Doe
+BEFORE
+ foo555  - 2014-05-16 17:07
+  foo1  - 2013-06-05 09:43
+  foo66bsd  - 2013-06-07 11:21
+AFTER
+ blaz1  - 2013-06-07 11:21
+
+User 5181 - John Doe
+BEFORE
+ foo1  - 2013-09-05 09:55
+  foo3 baz  - 2013-09-05 09:55
+  foo2 blah  - 2013-09-05 09:55
+AFTER
+ foo44444  - 2013-09-05 09:55
+
+User 6706 - John Doe
+BEFORE
+ bzz10  - 2013-09-12 09:49
+AFTER
+ blaz44  - 2013-09-12 09:49
+
+User 5460 - John Doe
+BEFORE
+ foo2 blah  - 2013-07-18 17:04
+  foo1  - 2013-07-18 17:04
+AFTER
+ bzzz7  - 2013-07-18 17:04
+
+User 2085 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-08 16:00
+  foo1  - 2014-01-08 00:00
+  foo3 baz  - 2014-01-08 16:00
+AFTER
+ foo44444  - 2014-01-08 16:00
+
+User 635 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 7539 - John Doe
+BEFORE
+ foo555  - 2014-04-03 14:41
+  foo1  - 2014-04-03 14:41
+AFTER
+ bzzzz2  - 2014-04-03 14:41
+
+User 2266 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-20 16:00
+  foo1  - 2014-01-20 16:00
+  foo3 baz  - 2014-01-20 16:00
+AFTER
+ foo44444  - 2014-01-20 16:00
+
+User 4270 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 205 - John Doe
+BEFORE
+ foo1  - 2014-05-21 14:54
+  foo555  - 2014-05-21 14:54
+AFTER
+ bzzzz2  - 2014-05-21 14:54
+
+User 412 - John Doe
+BEFORE
+ foo555  - 2014-03-25 11:49
+AFTER
+ bzzzz2  - 2014-03-25 11:49
+
+User 886 - John Doe
+BEFORE
+ foo1  - 2014-04-24 19:13
+  foo66bsd  - 2013-08-07 08:34
+  foo555  - 2014-04-24 19:13
+AFTER
+ blaz1  - 2013-08-07 08:34
+
+User 5806 - John Doe
+BEFORE
+ bzz10  - 2013-07-13 12:10
+  foo1  - 2013-07-13 12:10
+AFTER
+ blaz44  - 2013-07-13 12:10
+
+User 1297 - John Doe
+BEFORE
+ foo555  - 2013-12-19 09:27
+  foo1  - 2013-12-19 09:26
+AFTER
+ bzzzz2  - 2013-12-19 09:27
+
+User 6888 - John Doe
+BEFORE
+ foo1  - 2014-03-13 06:23
+  foo2 blah  - 2013-12-06 00:00
+  foo3 baz  - 2013-12-06 00:00
+AFTER
+ foo44444  - 2013-12-06 00:00
+
+User 5420 - John Doe
+BEFORE
+ foo555  - 2013-06-19 18:45
+AFTER
+ bzzzz2  - 2013-06-19 18:45
+
+User 4355 - John Doe
+BEFORE
+ foo555  - 2014-04-25 11:45
+  foo1  - 2014-03-19 11:49
+AFTER
+ bzzzz2  - 2014-04-25 11:45
+
+User 3606 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 6663 - John Doe
+BEFORE
+ foo3 baz  - 2013-09-27 11:55
+  foo1  - 2013-09-27 11:55
+  foo2 blah  - 2013-09-14 07:14
+AFTER
+ foo44444  - 2013-09-27 11:55
+
+User 2860 - John Doe
+BEFORE
+ foo1  - 2013-05-08 08:17
+  foo555  - 2013-05-08 08:17
+(no dates!)
+AFTER
+ foo555  - 2013-05-08 08:17
+User 3072 - John Doe
+BEFORE
+ foo3 baz  - 2013-11-02 13:13
+  foo1  - 2013-11-02 13:13
+  foo2 blah  - 2013-11-02 13:13
+AFTER
+ foo44444  - 2013-11-02 13:13
+
+User 7124 - John Doe
+BEFORE
+ foo555  - 2014-01-16 09:15
+  foo66bsd  - 2014-01-16 09:15
+  foo1  - 2014-01-16 09:15
+AFTER
+ blaz1  - 2014-01-16 09:15
+
+User 9430 - John Doe
+BEFORE
+ foo1  - 2014-03-26 13:01
+AFTER
+ foo1  - 2014-03-26 13:01
+
+User 2414 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3155 - John Doe
+BEFORE
+ foo1  - 2014-04-17 09:41
+  foo66bsd  - 2014-04-17 09:41
+  foo555  - 2014-04-17 09:41
+AFTER
+ blaz1  - 2014-04-17 09:41
+
+User 1483 - John Doe
+BEFORE
+ foo66bsd  - 2013-05-08 16:00
+  foo1  - 2013-05-09 09:22
+  foo555  - 2013-05-09 09:22
+(no dates!)
+AFTER
+ foo66bsd  - 2013-05-08 16:00
+  foo555  - 2013-05-09 09:22
+User 1679 - John Doe
+BEFORE
+ foo3 baz  - 2014-01-12 11:21
+  foo2 blah  - 2013-10-20 21:00
+  foo1  - 2013-11-11 00:00
+AFTER
+ foo44444  - 2014-01-12 11:21
+
+User 1352 - John Doe
+BEFORE
+ foo2 blah  - 2013-07-20 16:00
+  foo1  - 2013-10-14 00:00
+  foo3 baz  - 2013-05-09 22:00
+FIXUP!
+AFTER
+ foo3 baz  - 2013-05-09 22:00
+
+User 9503 - John Doe
+BEFORE
+ foo555  - 2014-05-02 08:57
+AFTER
+ bzzzz2  - 2014-05-02 08:57
+
+User 1793 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 5682 - John Doe
+BEFORE
+ foo555  - 2013-11-12 00:00
+  foo1  - 2013-11-12 00:00
+AFTER
+ bzzzz2  - 2013-11-12 00:00
+
+User 7375 - John Doe
+BEFORE
+ foo1  - 2014-02-28 00:00
+  foo2 blah  - 2014-02-28 00:00
+  foo3 baz  - 2014-02-28 00:00
+AFTER
+ foo44444  - 2014-02-28 00:00
+
+User 9374 - John Doe
+BEFORE
+ foo3 baz  - 2014-03-28 12:13
+  foo2 blah  - 2014-03-25 11:30
+  foo1  - 2014-03-25 11:30
+AFTER
+ foo44444  - 2014-03-28 12:13
+
+User 369 - John Doe
+BEFORE
+ foo1  - 2014-04-22 15:39
+  foo555  - 2013-11-02 00:00
+AFTER
+ bzzzz2  - 2013-11-02 00:00
+
+User 6908 - John Doe
+BEFORE
+ bzz10  - 2014-05-20 14:42
+  foo1  - 2014-04-03 14:14
+  foo555  - 2014-04-03 14:14
+AFTER
+ bzzzz2  - 2014-04-03 14:14
+
+User 7892 - John Doe
+BEFORE
+ foo1  - 2014-03-19 15:12
+  foo555  - 2014-03-19 15:12
+AFTER
+ bzzzz2  - 2014-03-19 15:12
+
+User 1504 - John Doe
+BEFORE
+ foo1  - 2014-03-09 09:11
+  foo66bsd  - 2014-01-25 13:10
+  foo555  - 2014-01-25 13:10
+AFTER
+ blaz1  - 2014-01-25 13:10
+
+User 7231 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-08 00:00
+  foo3 baz  - 2014-01-08 00:00
+  foo1  - 2014-01-08 00:00
+AFTER
+ foo44444  - 2014-01-08 00:00
+
+User 3710 - John Doe
+BEFORE
+ foo3 baz  - 2014-03-01 12:50
+  foo1  - 2014-03-01 12:50
+  foo2 blah  - 2014-03-01 12:50
+AFTER
+ foo44444  - 2014-03-01 12:50
+
+User 9181 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-28 00:00
+  foo3 baz  - 2014-02-28 00:00
+  foo1  - 2014-02-28 00:00
+AFTER
+ foo44444  - 2014-02-28 00:00
+
+User 7006 - John Doe
+BEFORE
+ foo3 baz  - 2013-11-10 00:00
+  foo2 blah  - 2013-11-10 00:00
+  foo1  - 2013-11-10 00:00
+AFTER
+ foo44444  - 2013-11-10 00:00
+
+User 7927 - John Doe
+BEFORE
+ foo555  - 2014-01-18 13:42
+  foo66bsd  - 2014-01-18 13:42
+  foo1  - 2014-01-18 13:42
+AFTER
+ blaz1  - 2014-01-18 13:42
+
+User 9245 - John Doe
+BEFORE
+ foo1  - 2013-10-12 13:28
+  bzz10  - 2013-10-12 13:28
+AFTER
+ blaz44  - 2013-10-12 13:28
+
+User 2422 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2084 - John Doe
+BEFORE
+ foo3 baz  - 2014-01-08 16:00
+  foo1  - 2014-01-08 00:00
+  foo2 blah  - 2014-01-08 16:00
+AFTER
+ foo44444  - 2014-01-08 16:00
+
+User 8845 - John Doe
+BEFORE
+ foo1  - 2014-02-21 10:31
+  foo555  - 2014-02-21 10:31
+AFTER
+ bzzzz2  - 2014-02-21 10:31
+
+User 308 - John Doe
+BEFORE
+ foo555  - 2014-05-07 14:17
+AFTER
+ bzzzz2  - 2014-05-07 14:17
+
+User 2237 - John Doe
+BEFORE
+ foo1  - 2013-05-18 11:04
+  foo555  - 2013-05-18 11:04
+(no dates!)
+AFTER
+ foo555  - 2013-05-18 11:04
+User 2394 - John Doe
+BEFORE
+ foo3 baz  - 2014-01-06 13:51
+  foo2 blah  - 2014-01-06 13:51
+  foo1  - 2014-01-06 13:51
+AFTER
+ foo44444  - 2014-01-06 13:51
+
+User 10005 - John Doe
+BEFORE
+ foo1  - 2013-12-15 00:00
+  foo3 baz  - 2013-12-15 00:00
+  foo2 blah  - 2013-12-15 00:00
+AFTER
+ foo44444  - 2013-12-15 00:00
+
+User 1499 - John Doe
+BEFORE
+ foo66bsd  - 2013-05-07 16:00
+  foo1  - 2013-05-08 21:49
+  foo555  - 2013-05-08 21:49
+(no dates!)
+AFTER
+ foo66bsd  - 2013-05-07 16:00
+  foo555  - 2013-05-08 21:49
+User 2293 - John Doe
+BEFORE
+ foo555  - 2014-03-02 12:58
+  foo1  - 2014-03-02 12:58
+  foo66bsd  - 2014-05-02 14:47
+AFTER
+ blaz1  - 2014-05-02 14:47
+
+User 1230 - John Doe
+BEFORE
+ bzz10  - 2013-06-13 10:37
+  foo1  - 2014-01-25 16:32
+AFTER
+ blaz44  - 2013-06-13 10:37
+
+User 4044 - John Doe
+BEFORE
+ foo555  - 2014-04-05 09:45
+  foo1  - 2014-04-05 09:45
+AFTER
+ bzzzz2  - 2014-04-05 09:45
+
+User 768 - John Doe
+BEFORE
+ foo555  - 2014-04-17 19:52
+  foo1  - 2013-05-07 15:18
+AFTER
+ bzzzz2  - 2014-04-17 19:52
+
+User 7874 - John Doe
+BEFORE
+ foo1  - 2014-01-30 20:43
+  foo555  - 2014-01-30 20:43
+AFTER
+ bzzzz2  - 2014-01-30 20:43
+
+User 8782 - John Doe
+BEFORE
+ foo1  - 2014-04-30 10:17
+  foo555  - 2014-04-30 10:17
+AFTER
+ bzzzz2  - 2014-04-30 10:17
+
+User 2234 - John Doe
+BEFORE
+ foo555  - 2013-06-25 08:51
+AFTER
+ bzzzz2  - 2013-06-25 08:51
+
+User 3607 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3107 - John Doe
+BEFORE
+ foo555  - 2014-04-30 10:26
+  foo1  - 2014-04-30 10:26
+AFTER
+ bzzzz2  - 2014-04-30 10:26
+
+User 5143 - John Doe
+BEFORE
+ foo1  - 2014-02-01 00:00
+  foo555  - 2014-02-01 00:00
+AFTER
+ bzzzz2  - 2014-02-01 00:00
+
+User 2705 - John Doe
+BEFORE
+ foo1  - 2013-11-20 10:47
+  foo555  - 2013-11-20 10:47
+AFTER
+ bzzzz2  - 2013-11-20 10:47
+
+User 8462 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-19 00:00
+  foo3 baz  - 2013-12-19 00:00
+AFTER
+ foo44444  - 2013-12-19 00:00
+
+User 9597 - John Doe
+BEFORE
+ foo1  - 2014-04-23 07:53
+  foo66bsd  - 2014-04-23 07:53
+  foo555  - 2014-04-23 07:53
+AFTER
+ blaz1  - 2014-04-23 07:53
+
+User 7407 - John Doe
+BEFORE
+ foo1  - 2013-11-01 00:00
+  foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 5024 - John Doe
+BEFORE
+ foo1  - 2013-07-18 17:04
+  foo3 baz  - 2013-07-18 17:04
+  foo2 blah  - 2013-07-18 17:04
+AFTER
+ foo44444  - 2013-07-18 17:04
+
+User 8662 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 8678 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-14 10:08
+  foo3 baz  - 2014-02-14 10:08
+  foo1  - 2014-02-14 10:08
+AFTER
+ foo44444  - 2014-02-14 10:08
+
+User 8294 - John Doe
+BEFORE
+ foo1  - 2014-05-14 06:36
+  foo555  - 2014-05-14 06:36
+AFTER
+ bzzzz2  - 2014-05-14 06:36
+
+User 3944 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2985 - John Doe
+BEFORE
+ foo1  - 2013-12-05 08:00
+  foo3 baz  - 2013-12-06 00:00
+  foo2 blah  - 2013-12-06 00:00
+AFTER
+ foo44444  - 2013-12-06 00:00
+
+User 198 - John Doe
+BEFORE
+ foo1  - 2013-10-12 13:28
+  foo555  - 2014-03-21 09:10
+  foo66bsd  - 2013-10-12 13:28
+AFTER
+ blaz1  - 2013-10-12 13:28
+
+User 7213 - John Doe
+BEFORE
+ foo2 blah  - 2013-10-19 13:37
+  foo3 baz  - 2013-10-19 13:37
+  foo1  - 2013-10-19 13:37
+AFTER
+ foo44444  - 2013-10-19 13:37
+
+User 7955 - John Doe
+BEFORE
+ foo1  - 2014-01-31 00:00
+  foo2 blah  - 2014-01-31 00:00
+  foo3 baz  - 2014-01-31 00:00
+AFTER
+ foo44444  - 2014-01-31 00:00
+
+User 3718 - John Doe
+BEFORE
+ foo555  - 2014-03-14 09:05
+  foo66bsd  - 2014-03-14 09:05
+  foo1  - 2014-03-14 09:05
+AFTER
+ blaz1  - 2014-03-14 09:05
+
+User 4878 - John Doe
+BEFORE
+ foo1  - 2013-05-11 10:07
+  foo3 baz  - 2013-05-11 10:07
+  foo2 blah  - 2013-05-11 10:07
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-11 10:07
+  foo2 blah  - 2013-05-11 10:07
+User 2480 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 4544 - John Doe
+BEFORE
+ foo555  - 2014-05-13 10:57
+  foo1  - 2014-04-12 07:54
+AFTER
+ bzzzz2  - 2014-05-13 10:57
+
+User 2098 - John Doe
+BEFORE
+ foo555  - 2014-04-20 13:03
+  foo1  - 2014-04-20 13:03
+AFTER
+ bzzzz2  - 2014-04-20 13:03
+
+User 5612 - John Doe
+BEFORE
+ foo3 baz  - 2013-08-07 14:11
+  foo1  - 2013-06-29 10:57
+  foo2 blah  - 2013-06-29 10:57
+AFTER
+ foo44444  - 2013-08-07 14:11
+
+User 10121 - John Doe
+BEFORE
+ foo1  - 2014-05-08 12:08
+  foo555  - 2014-05-08 12:08
+AFTER
+ bzzzz2  - 2014-05-08 12:08
+
+User 9699 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 4579 - John Doe
+BEFORE
+ foo1  - 2014-03-21 00:00
+AFTER
+ foo1  - 2014-03-21 00:00
+
+User 1698 - John Doe
+BEFORE
+ foo1  - 2013-09-24 21:37
+  foo2 blah  - 2013-09-24 21:37
+AFTER
+ bzzz7  - 2013-09-24 21:37
+
+User 7365 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+  foo1  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 376 - John Doe
+BEFORE
+ foo1  - 2013-05-25 00:00
+  foo2 blah  - 2013-05-25 00:00
+  foo3 baz  - 2013-05-25 00:00
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-25 00:00
+  foo3 baz  - 2013-05-25 00:00
+User 6594 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 9338 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 919 - John Doe
+BEFORE
+ foo555  - 2013-10-29 08:48
+  foo1  - 2013-10-09 11:16
+AFTER
+ bzzzz2  - 2013-10-29 08:48
+
+User 2057 - John Doe
+BEFORE
+ foo555  - 2013-11-29 16:47
+  foo66bsd  - 2014-04-09 15:34
+  foo1  - 2014-04-09 15:34
+AFTER
+ blaz1  - 2014-04-09 15:34
+
+User 2376 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3837 - John Doe
+BEFORE
+ foo3 baz  - 2014-03-08 13:53
+  foo1  - 2014-03-08 13:53
+  foo2 blah  - 2014-03-08 13:53
+AFTER
+ foo44444  - 2014-03-08 13:53
+
+User 10346 - John Doe
+BEFORE
+ foo1  - 2014-05-22 18:04
+  foo555  - 2014-05-22 18:04
+AFTER
+ bzzzz2  - 2014-05-22 18:04
+
+User 802 - John Doe
+BEFORE
+ foo1  - 2013-12-15 00:00
+  foo3 baz  - 2013-12-15 00:00
+  foo2 blah  - 2013-12-15 00:00
+AFTER
+ foo44444  - 2013-12-15 00:00
+
+User 7421 - John Doe
+BEFORE
+ foo555  - 2013-12-30 16:00
+  foo66bsd  - 2013-11-26 09:08
+  foo1  - 2013-11-26 09:08
+AFTER
+ blaz1  - 2013-11-26 09:08
+
+User 2474 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 5715 - John Doe
+BEFORE
+ foo3 baz  - 2013-07-06 11:45
+  foo1  - 2013-07-06 11:45
+  foo2 blah  - 2013-07-06 11:45
+AFTER
+ foo44444  - 2013-07-06 11:45
+
+User 8651 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 6151 - John Doe
+BEFORE
+ foo66bsd  - 2013-08-12 20:13
+  foo555  - 2013-08-12 20:13
+AFTER
+ blaz1  - 2013-08-12 20:13
+
+User 5782 - John Doe
+BEFORE
+ foo1  - 2013-10-09 13:07
+  foo555  - 2013-10-09 13:07
+AFTER
+ bzzzz2  - 2013-10-09 13:07
+
+User 7408 - John Doe
+BEFORE
+ foo1  - 2013-11-01 00:00
+  foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 6322 - John Doe
+BEFORE
+ foo555  - 2013-11-06 15:35
+AFTER
+ bzzzz2  - 2013-11-06 15:35
+
+User 2382 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 9462 - John Doe
+BEFORE
+ foo1  - 2014-04-21 00:00
+AFTER
+ foo1  - 2014-04-21 00:00
+
+User 1126 - John Doe
+BEFORE
+ foo555  - 2014-03-08 14:34
+  foo66bsd  - 2014-03-08 14:34
+  foo1  - 2014-03-08 14:34
+AFTER
+ blaz1  - 2014-03-08 14:34
+
+User 6912 - John Doe
+BEFORE
+ foo3 baz  - 2013-10-18 15:46
+  foo1  - 2013-10-18 15:46
+  foo2 blah  - 2013-10-18 15:46
+AFTER
+ foo44444  - 2013-10-18 15:46
+
+User 1012 - John Doe
+BEFORE
+ foo66bsd  - 2013-08-01 00:00
+  foo555  - 2014-01-25 00:00
+  foo1  - 2014-01-25 16:32
+AFTER
+ blaz1  - 2013-08-01 00:00
+
+User 4890 - John Doe
+BEFORE
+ foo1  - 2013-08-23 11:03
+  foo3 baz  - 2013-05-11 15:06
+  foo2 blah  - 2013-05-11 15:06
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-11 15:06
+  foo2 blah  - 2013-05-11 15:06
+User 188 - John Doe
+BEFORE
+ foo1  - 2014-04-21 00:00
+AFTER
+ foo1  - 2014-04-21 00:00
+
+User 7397 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+  foo1  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 9941 - John Doe
+BEFORE
+ foo1  - 2014-04-21 00:00
+AFTER
+ foo1  - 2014-04-21 00:00
+
+User 1124 - John Doe
+BEFORE
+ foo555  - 2014-02-16 07:55
+  foo66bsd  - 2014-02-16 07:55
+  foo1  - 2014-02-18 11:23
+AFTER
+ blaz1  - 2014-02-16 07:55
+
+User 9339 - John Doe
+BEFORE
+ foo1  - 2014-05-08 09:23
+  foo3 baz  - 2014-05-08 09:23
+  foo2 blah  - 2014-05-08 09:23
+AFTER
+ foo44444  - 2014-05-08 09:23
+
+User 7465 - John Doe
+BEFORE
+ foo1  - 2013-11-12 12:14
+  foo3 baz  - 2013-11-12 12:14
+  foo2 blah  - 2013-11-12 12:14
+AFTER
+ foo44444  - 2013-11-12 12:14
+
+User 3166 - John Doe
+BEFORE
+ foo1  - 2014-02-07 13:10
+  foo555  - 2014-02-07 13:10
+AFTER
+ bzzzz2  - 2014-02-07 13:10
+
+User 7765 - John Doe
+BEFORE
+ foo1  - 2013-12-30 16:00
+  foo2 blah  - 2013-12-30 16:00
+AFTER
+ bzzz7  - 2013-12-30 16:00
+
+User 9878 - John Doe
+BEFORE
+ foo1  - 2014-04-19 14:24
+  bzz10  - 2014-04-19 14:24
+AFTER
+ blaz44  - 2014-04-19 14:24
+
+User 656 - John Doe
+BEFORE
+ foo1  - 2013-08-27 10:11
+  foo3 baz  - 2013-08-27 10:11
+  foo2 blah  - 2013-08-27 10:11
+AFTER
+ foo44444  - 2013-08-27 10:11
+
+User 2264 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-20 16:00
+  foo1  - 2014-01-20 16:00
+  foo3 baz  - 2014-01-20 16:00
+AFTER
+ foo44444  - 2014-01-20 16:00
+
+User 3662 - John Doe
+BEFORE
+ foo555  - 2014-03-09 15:17
+  foo1  - 2014-04-30 10:04
+AFTER
+ bzzzz2  - 2014-03-09 15:17
+
+User 55 - John Doe
+BEFORE
+ foo3 baz  - 2014-01-12 10:11
+  foo1  - 2014-01-27 09:18
+  foo2 blah  - 2014-04-12 08:37
+AFTER
+ foo44444  - 2014-01-12 10:11
+
+User 9378 - John Doe
+BEFORE
+ foo1  - 2014-03-25 12:03
+  foo555  - 2014-03-25 12:03
+AFTER
+ bzzzz2  - 2014-03-25 12:03
+
+User 6939 - John Doe
+BEFORE
+ foo1  - 2013-11-01 21:00
+AFTER
+ foo1  - 2013-11-01 21:00
+
+User 6623 - John Doe
+BEFORE
+ bzz10  - 2014-02-06 09:53
+  foo1  - 2013-10-10 12:40
+AFTER
+ blaz44  - 2014-02-06 09:53
+
+User 3563 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 10123 - John Doe
+BEFORE
+ foo1  - 2014-05-14 11:32
+  foo2 blah  - 2014-05-14 11:32
+AFTER
+ bzzz7  - 2014-05-14 11:32
+
+User 5418 - John Doe
+BEFORE
+ foo555  - 2014-03-02 17:40
+  foo66bsd  - 2014-03-02 17:40
+AFTER
+ blaz1  - 2014-03-02 17:40
+
+User 4913 - John Doe
+BEFORE
+ foo1  - 2014-03-12 10:29
+  foo66bsd  - 2014-03-12 10:29
+  foo555  - 2014-03-12 10:29
+AFTER
+ blaz1  - 2014-03-12 10:29
+
+User 1436 - John Doe
+BEFORE
+ foo1  - 2013-08-28 09:32
+  foo66bsd  - 2013-08-28 09:32
+  foo555  - 2013-08-28 09:32
+AFTER
+ blaz1  - 2013-08-28 09:32
+
+User 408 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-21 11:35
+  foo3 baz  - 2014-02-21 11:35
+  foo1  - 2014-02-21 11:35
+  foo66bsd  -
+FIXUP!
+AFTER
+ foo66bsd  -
+  foo44444  - 2014-02-21 11:35
+
+User 7318 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 26 - John Doe
+BEFORE
+ foo555  - 2013-09-09 15:45
+  foo66bsd  - 2013-09-09 15:45
+  foo1  - 2013-08-17 07:30
+AFTER
+ blaz1  - 2013-09-09 15:45
+
+User 4325 - John Doe
+BEFORE
+ foo555  - 2014-04-22 00:00
+  foo1  - 2013-08-16 15:59
+AFTER
+ bzzzz2  - 2014-04-22 00:00
+
+User 933 - John Doe
+BEFORE
+ foo2 blah  - 2013-09-24 21:37
+  foo1  - 2013-09-24 21:37
+AFTER
+ bzzz7  - 2013-09-24 21:37
+
+User 5454 - John Doe
+BEFORE
+ foo1  - 2013-07-11 12:33
+  foo66bsd  - 2013-07-11 12:33
+  foo555  - 2013-07-11 12:33
+AFTER
+ blaz1  - 2013-07-11 12:33
+
+User 7369 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+  foo1  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 2417 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 6981 - John Doe
+BEFORE
+ foo1  - 2014-04-09 10:46
+  foo555  - 2014-04-09 10:46
+AFTER
+ bzzzz2  - 2014-04-09 10:46
+
+User 8451 - John Doe
+BEFORE
+ foo1  - 2014-04-22 09:58
+  foo555  - 2014-04-22 09:58
+AFTER
+ bzzzz2  - 2014-04-22 09:58
+
+User 7594 - John Doe
+BEFORE
+ foo1  - 2014-02-25 13:37
+  foo555  - 2014-02-25 13:37
+AFTER
+ bzzzz2  - 2014-02-25 13:37
+
+User 7766 - John Doe
+BEFORE
+ foo1  - 2013-12-30 16:00
+  foo2 blah  - 2013-12-30 16:00
+  foo3 baz  - 2013-12-30 16:00
+AFTER
+ foo44444  - 2013-12-30 16:00
+
+User 4875 - John Doe
+BEFORE
+ foo1  - 2014-05-09 13:51
+  foo555  - 2014-05-09 13:51
+AFTER
+ bzzzz2  - 2014-05-09 13:51
+
+User 2490 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 10184 - John Doe
+BEFORE
+ foo1  - 2014-05-10 10:42
+  foo555  - 2014-05-10 10:42
+AFTER
+ bzzzz2  - 2014-05-10 10:42
+
+User 2580 - John Doe
+BEFORE
+ foo3 baz  - 2014-01-19 10:30
+  foo2 blah  - 2014-01-19 10:30
+  foo1  - 2014-01-19 10:30
+AFTER
+ foo44444  - 2014-01-19 10:30
+
+User 695 - John Doe
+BEFORE
+ foo1  - 2013-12-15 00:00
+  foo3 baz  - 2013-12-15 00:00
+  foo2 blah  - 2013-12-15 00:00
+AFTER
+ foo44444  - 2013-12-15 00:00
+
+User 2147 - John Doe
+BEFORE
+ foo1  - 2013-05-31 00:00
+  foo3 baz  - 2013-05-31 00:00
+  foo2 blah  - 2013-05-31 00:00
+AFTER
+ foo44444  - 2013-05-31 00:00
+
+User 2579 - John Doe
+BEFORE
+ foo3 baz  - 2014-01-19 10:30
+  foo2 blah  - 2014-01-19 10:30
+  foo1  - 2014-01-19 10:30
+AFTER
+ foo44444  - 2014-01-19 10:30
+
+User 7448 - John Doe
+BEFORE
+ foo555  - 2014-11-14 14:13
+AFTER
+ bzzzz2  - 2014-11-14 14:13
+
+User 9547 - John Doe
+BEFORE
+ foo1  - 2014-05-13 14:44
+AFTER
+ foo1  - 2014-05-13 14:44
+
+User 808 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-15 00:00
+  foo2 blah  - 2013-12-15 00:00
+  foo1  - 2013-12-15 00:00
+AFTER
+ foo44444  - 2013-12-15 00:00
+
+User 2078 - John Doe
+BEFORE
+ foo1  - 2013-11-24 07:02
+  foo2 blah  - 2013-11-24 07:02
+  foo3 baz  - 2013-11-24 07:02
+AFTER
+ foo44444  - 2013-11-24 07:02
+
+User 1545 - John Doe
+BEFORE
+ foo1  - 2013-08-27 10:11
+  foo3 baz  - 2013-08-27 10:11
+  foo2 blah  - 2013-08-27 10:11
+AFTER
+ foo44444  - 2013-08-27 10:11
+
+User 7762 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+AFTER
+ bzzz7  - 2013-12-30 16:00
+
+User 2373 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 7770 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2496 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3615 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 1149 - John Doe
+BEFORE
+ foo2 blah  - 2013-09-17 00:00
+  foo3 baz  - 2013-09-17 00:00
+  foo1  - 2013-09-17 00:00
+AFTER
+ foo44444  - 2013-09-17 00:00
+
+User 1852 - John Doe
+BEFORE
+ foo1  - 2013-05-16 13:30
+(no dates!)
+AFTER
+ foo1  - 2013-05-16 13:30
+User 4046 - John Doe
+BEFORE
+ foo1  - 2014-04-29 19:20
+  foo3 baz  - 2014-04-29 19:20
+  foo2 blah  - 2014-04-29 19:20
+AFTER
+ foo44444  - 2014-04-29 19:20
+
+User 1372 - John Doe
+BEFORE
+ foo66bsd  - 2014-03-07 08:47
+  foo555  - 2014-02-01 13:57
+  foo1  - 2014-02-01 13:57
+AFTER
+ blaz1  - 2014-03-07 08:47
+
+User 1254 - John Doe
+BEFORE
+ foo66bsd  - 2013-10-12 09:05
+  foo1  - 2013-10-12 09:05
+  foo555  - 2013-10-12 09:05
+AFTER
+ blaz1  - 2013-10-12 09:05
+
+User 3209 - John Doe
+BEFORE
+ foo555  - 2013-10-18 14:14
+  foo1  - 2013-10-18 14:14
+AFTER
+ bzzzz2  - 2013-10-18 14:14
+
+User 5804 - John Doe
+BEFORE
+ foo555  - 2013-07-13 12:10
+  foo66bsd  - 2013-07-13 12:10
+AFTER
+ blaz1  - 2013-07-13 12:10
+
+User 1750 - John Doe
+BEFORE
+ foo1  - 2013-08-25 16:00
+AFTER
+ foo1  - 2013-08-25 16:00
+
+User 964 - John Doe
+BEFORE
+ foo2 blah  - 2014-04-12 16:00
+  foo1  - 2014-04-12 16:00
+AFTER
+ bzzz7  - 2014-04-12 16:00
+
+User 5384 - John Doe
+BEFORE
+ foo1  - 2013-12-30 16:00
+  foo2 blah  - 2013-12-30 16:00
+  foo3 baz  - 2013-12-30 16:00
+AFTER
+ foo44444  - 2013-12-30 16:00
+
+User 8351 - John Doe
+BEFORE
+ foo1  - 2014-01-31 13:27
+AFTER
+ foo1  - 2014-01-31 13:27
+
+User 6917 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-17 21:00
+  foo3 baz  - 2013-11-17 21:00
+  foo1  - 2013-11-17 21:00
+AFTER
+ foo44444  - 2013-11-17 21:00
+
+User 4226 - John Doe
+BEFORE
+ foo1  - 2014-05-08 08:05
+  bzz10  - 2014-05-08 08:05
+AFTER
+ blaz44  - 2014-05-08 08:05
+
+User 103 - John Doe
+BEFORE
+ foo2 blah  - 2015-07-18 16:00
+  foo1  - 2013-06-19 10:05
+  foo3 baz  - 2013-06-19 10:05
+AFTER
+ foo44444  - 2013-06-19 10:05
+
+User 4183 - John Doe
+BEFORE
+ foo1  - 2014-05-21 09:17
+  foo555  - 2014-05-21 09:17
+AFTER
+ bzzzz2  - 2014-05-21 09:17
+
+User 7447 - John Doe
+BEFORE
+ foo1  - 2014-11-07 09:54
+  foo3 baz  - 2014-11-07 09:54
+  foo2 blah  - 2014-11-07 09:54
+AFTER
+ foo44444  - 2014-11-07 09:54
+
+User 10307 - John Doe
+BEFORE
+ foo1  - 2014-05-20 09:58
+  foo3 baz  - 2014-05-20 09:58
+  foo2 blah  - 2014-05-20 09:58
+AFTER
+ foo44444  - 2014-05-20 09:58
+
+User 10102 - John Doe
+BEFORE
+ foo3 baz  - 2014-05-09 10:27
+  foo2 blah  - 2014-05-09 10:27
+  foo1  - 2014-05-09 10:27
+AFTER
+ foo44444  - 2014-05-09 10:27
+
+User 295 - John Doe
+BEFORE
+ foo1  - 2014-01-25 15:45
+  foo2 blah  - 2013-09-15 16:00
+  foo3 baz  - 2013-09-15 16:00
+AFTER
+ foo44444  - 2013-09-15 16:00
+
+User 8064 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-10 13:01
+  foo3 baz  - 2014-01-10 13:01
+  foo1  - 2014-01-10 13:01
+AFTER
+ foo44444  - 2014-01-10 13:01
+
+User 5841 - John Doe
+BEFORE
+ foo2 blah  - 2013-10-18 15:44
+  foo3 baz  - 2013-10-18 15:44
+  foo1  - 2013-10-18 15:44
+AFTER
+ foo44444  - 2013-10-18 15:44
+
+User 5075 - John Doe
+BEFORE
+ foo1  - 2014-05-16 11:34
+  foo66bsd  - 2014-10-04 12:13
+  foo555  - 2014-10-04 12:13
+AFTER
+ blaz1  - 2014-10-04 12:13
+
+User 2896 - John Doe
+BEFORE
+ foo3 baz  - 2014-05-08 08:03
+AFTER
+ foo44444  - 2014-05-08 08:03
+
+User 164 - John Doe
+BEFORE
+ foo1  - 2013-05-26 00:00
+(no dates!)
+AFTER
+ foo1  - 2013-05-26 00:00
+User 2390 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 4559 - John Doe
+BEFORE
+ foo1  - 2014-04-23 14:23
+  foo555  - 2014-04-23 14:23
+AFTER
+ bzzzz2  - 2014-04-23 14:23
+
+User 4469 - John Doe
+BEFORE
+ foo1  - 2014-04-26 19:42
+  foo555  - 2013-10-24 08:10
+AFTER
+ bzzzz2  - 2013-10-24 08:10
+
+User 10183 - John Doe
+BEFORE
+ foo1  - 2014-05-10 11:04
+  foo2 blah  - 2014-05-10 11:04
+AFTER
+ bzzz7  - 2014-05-10 11:04
+
+User 4352 - John Doe
+BEFORE
+ foo66bsd  - 2014-04-05 13:29
+  foo555  - 2014-04-05 13:29
+  foo1  - 2014-04-05 13:29
+AFTER
+ blaz1  - 2014-04-05 13:29
+
+User 10099 - John Doe
+BEFORE
+ foo3 baz  - 2014-05-09 10:27
+  foo2 blah  - 2014-05-09 10:27
+  foo1  - 2014-05-09 10:27
+AFTER
+ foo44444  - 2014-05-09 10:27
+
+User 3319 - John Doe
+BEFORE
+ foo66bsd  - 2014-04-29 19:19
+  foo555  - 2014-04-29 19:19
+  foo1  - 2013-08-22 17:49
+AFTER
+ blaz1  - 2014-04-29 19:19
+
+User 2482 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 909 - John Doe
+BEFORE
+ foo2 blah  - 2014-03-18 10:06
+  foo3 baz  - 2014-03-12 12:32
+  foo1  - 2013-11-17 21:00
+AFTER
+ foo44444  - 2014-03-12 12:32
+
+User 10223 - John Doe
+BEFORE
+ foo1  - 2014-05-20 14:42
+AFTER
+ foo1  - 2014-05-20 14:42
+
+User 7671 - John Doe
+BEFORE
+ foo1  - 2014-05-17 08:03
+  foo555  - 2014-01-04 13:44
+AFTER
+ bzzzz2  - 2014-01-04 13:44
+
+User 857 - John Doe
+BEFORE
+ foo1  - 2013-06-11 20:39
+AFTER
+ foo1  - 2013-06-11 20:39
+
+User 2329 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 9001 - John Doe
+BEFORE
+ foo2 blah  - 2014-03-07 12:08
+  foo3 baz  - 2014-03-07 12:08
+  foo1  - 2014-03-07 12:08
+AFTER
+ foo44444  - 2014-03-07 12:08
+
+User 9627 - John Doe
+BEFORE
+ foo2 blah  - 2013-05-12 08:15
+  foo1  - 2013-05-12 08:15
+  foo3 baz  - 2013-05-12 08:15
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-12 08:15
+  foo3 baz  - 2013-05-12 08:15
+User 1747 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-20 16:00
+  foo1  - 2014-01-20 16:00
+  foo3 baz  - 2014-01-20 16:00
+AFTER
+ foo44444  - 2014-01-20 16:00
+
+User 4777 - John Doe
+BEFORE
+ bzz10  - 2013-10-09 11:16
+  foo1  - 2013-10-09 11:16
+AFTER
+ blaz44  - 2013-10-09 11:16
+
+User 1257 - John Doe
+BEFORE
+ foo555  - 2014-03-15 07:02
+  foo1  - 2014-03-17 15:42
+AFTER
+ bzzzz2  - 2014-03-15 07:02
+
+User 2391 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 7417 - John Doe
+BEFORE
+ foo1  - 2014-11-05 10:06
+  foo3 baz  - 2014-11-05 10:06
+  foo2 blah  - 2014-11-05 10:06
+AFTER
+ foo44444  - 2014-11-05 10:06
+
+User 631 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 10085 - John Doe
+BEFORE
+ bzz10  - 2014-05-06 10:17
+  foo1  - 2014-05-06 10:17
+AFTER
+ blaz44  - 2014-05-06 10:17
+
+User 2007 - John Doe
+BEFORE
+ foo1  - 2014-04-23 16:54
+  foo555  - 2014-04-23 16:54
+AFTER
+ bzzzz2  - 2014-04-23 16:54
+
+User 5642 - John Doe
+BEFORE
+ foo555  - 2013-07-25 14:55
+  foo1  - 2013-07-25 14:55
+  foo66bsd  - 2013-09-17 16:27
+AFTER
+ blaz1  - 2013-09-17 16:27
+
+User 1573 - John Doe
+BEFORE
+ foo1  - 2014-04-26 20:32
+  foo555  - 2013-09-23 09:19
+AFTER
+ bzzzz2  - 2013-09-23 09:19
+
+User 2459 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 4551 - John Doe
+BEFORE
+ foo1  - 2013-05-08 08:36
+  foo3 baz  - 2013-05-08 08:36
+  foo2 blah  - 2013-05-08 08:36
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-08 08:36
+  foo2 blah  - 2013-05-08 08:36
+User 379 - John Doe
+BEFORE
+ foo2 blah  - 2013-10-27 09:22
+  foo1  - 2013-10-14 14:56
+AFTER
+ bzzz7  - 2013-10-27 09:22
+
+User 2398 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 8985 - John Doe
+BEFORE
+ foo555  - 2013-05-17 16:00
+(no dates!)
+AFTER
+ foo555  - 2013-05-17 16:00
+User 2412 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 5278 - John Doe
+BEFORE
+ foo3 baz  - 2013-05-26 00:00
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-26 00:00
+User 10188 - John Doe
+BEFORE
+ foo66bsd  - 2014-05-10 11:21
+  foo555  - 2014-05-10 11:21
+AFTER
+ blaz1  - 2014-05-10 11:21
+
+User 1929 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 7998 - John Doe
+BEFORE
+ foo555  - 2014-03-25 10:35
+  foo66bsd  - 2014-03-21 16:31
+AFTER
+ blaz1  - 2014-03-21 16:31
+
+User 9042 - John Doe
+BEFORE
+ foo555  - 2014-03-06 11:12
+  foo1  - 2014-03-06 11:12
+AFTER
+ bzzzz2  - 2014-03-06 11:12
+
+User 3614 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 158 - John Doe
+BEFORE
+ foo1  - 2014-01-20 16:00
+  foo2 blah  - 2014-01-20 16:00
+AFTER
+ bzzz7  - 2014-01-20 16:00
+
+User 1016 - John Doe
+BEFORE
+ foo1  - 2013-07-13 12:38
+  foo3 baz  - 2013-07-13 12:38
+  foo2 blah  - 2013-07-13 12:38
+AFTER
+ foo44444  - 2013-07-13 12:38
+
+User 3170 - John Doe
+BEFORE
+ foo66bsd  - 2014-02-22 16:00
+  foo555  - 2014-02-22 16:00
+  foo1  - 2014-02-22 16:00
+AFTER
+ blaz1  - 2014-02-22 16:00
+
+User 4802 - John Doe
+BEFORE
+ foo2 blah  - 2013-05-08 08:21
+  foo3 baz  - 2013-05-08 08:21
+  foo1  - 2013-05-08 08:21
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-08 08:21
+  foo3 baz  - 2013-05-08 08:21
+User 6247 - John Doe
+BEFORE
+ foo1  - 2014-02-20 09:43
+  foo555  - 2014-02-20 09:43
+AFTER
+ bzzzz2  - 2014-02-20 09:43
+
+User 3980 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 8948 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2554 - John Doe
+BEFORE
+ foo555  - 2014-04-26 12:46
+  foo1  - 2014-04-26 12:46
+AFTER
+ bzzzz2  - 2014-04-26 12:46
+
+User 2658 - John Doe
+BEFORE
+ foo3 baz  - 2014-01-19 15:03
+  foo2 blah  - 2014-01-19 15:03
+AFTER
+ foo44444  - 2014-01-19 15:03
+
+User 3809 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+  foo1  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 4045 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 159 - John Doe
+BEFORE
+ foo1  - 2013-12-19 13:26
+  foo3 baz  - 2013-12-19 13:26
+  foo2 blah  - 2013-12-19 13:26
+AFTER
+ foo44444  - 2013-12-19 13:26
+
+User 1039 - John Doe
+BEFORE
+ foo3 baz  - 2014-03-07 00:00
+  foo1  - 2014-03-07 00:00
+  foo2 blah  - 2014-03-07 00:00
+AFTER
+ foo44444  - 2014-03-07 00:00
+
+User 9184 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-28 00:00
+  foo3 baz  - 2014-02-28 00:00
+  foo1  - 2014-02-28 00:00
+AFTER
+ foo44444  - 2014-02-28 00:00
+
+User 7452 - John Doe
+BEFORE
+ foo1  - 2013-11-07 00:00
+  foo66bsd  - 2013-11-07 11:25
+  foo555  - 2013-11-07 11:25
+AFTER
+ blaz1  - 2013-11-07 11:25
+
+User 3844 - John Doe
+BEFORE
+ foo66bsd  - 2013-05-17 10:27
+  foo555  - 2013-05-17 10:27
+(no dates!)
+AFTER
+ foo66bsd  - 2013-05-17 10:27
+  foo555  - 2013-05-17 10:27
+User 7041 - John Doe
+BEFORE
+ foo1  - 2013-10-15 12:34
+  foo555  - 2013-10-15 12:34
+AFTER
+ bzzzz2  - 2013-10-15 12:34
+
+User 60 - John Doe
+BEFORE
+ foo1  - 2014-05-10 11:56
+AFTER
+ foo1  - 2014-05-10 11:56
+
+User 2379 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 9182 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-28 00:00
+  foo3 baz  - 2014-02-28 00:00
+  foo1  - 2014-02-28 00:00
+AFTER
+ foo44444  - 2014-02-28 00:00
+
+User 4340 - John Doe
+BEFORE
+ foo1  - 2013-06-30 00:00
+AFTER
+ foo1  - 2013-06-30 00:00
+
+User 5119 - John Doe
+BEFORE
+ foo1  - 2014-05-06 10:17
+  foo555  - 2014-05-06 10:17
+AFTER
+ bzzzz2  - 2014-05-06 10:17
+
+User 5456 - John Doe
+BEFORE
+ foo3 baz  - 2013-07-18 17:04
+  foo2 blah  - 2013-07-18 17:04
+  foo1  - 2013-07-18 17:04
+AFTER
+ foo44444  - 2013-07-18 17:04
+
+User 4852 - John Doe
+BEFORE
+ foo66bsd  - 2014-05-20 11:09
+  foo555  - 2013-05-10 09:42
+  foo1  - 2013-07-17 09:21
+FIXUP!
+AFTER
+ foo555  - 2013-05-10 09:42
+  blaz1  - 2014-05-20 11:09
+
+User 1493 - John Doe
+BEFORE
+ foo555  - 2014-03-27 21:39
+  foo1  - 2014-03-27 21:39
+  foo66bsd  - 2014-03-27 21:39
+AFTER
+ blaz1  - 2014-03-27 21:39
+
+User 4323 - John Doe
+BEFORE
+ foo1  - 2014-04-20 14:57
+  foo555  - 2014-04-20 14:57
+AFTER
+ bzzzz2  - 2014-04-20 14:57
+
+User 6803 - John Doe
+BEFORE
+ foo3 baz  - 2013-09-26 09:29
+  foo1  - 2013-09-20 08:25
+AFTER
+ foo44444  - 2013-09-26 09:29
+
+User 4925 - John Doe
+BEFORE
+ foo1  - 2014-02-06 09:53
+  foo555  - 2013-10-10 12:40
+AFTER
+ bzzzz2  - 2013-10-10 12:40
+
+User 4504 - John Doe
+BEFORE
+ foo1  - 2014-04-12 16:00
+  foo2 blah  - 2014-04-12 16:00
+AFTER
+ bzzz7  - 2014-04-12 16:00
+
+User 10313 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-30 16:00
+  foo2 blah  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+AFTER
+ foo44444  - 2013-12-30 16:00
+
+User 2476 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 10100 - John Doe
+BEFORE
+ foo2 blah  - 2014-05-09 10:27
+  foo1  - 2014-05-09 10:27
+  foo3 baz  - 2014-05-09 10:27
+AFTER
+ foo44444  - 2014-05-09 10:27
+
+User 8996 - John Doe
+BEFORE
+ foo555  - 2014-03-04 10:44
+  foo66bsd  - 2014-03-04 10:44
+  foo1  - 2014-03-04 10:44
+AFTER
+ blaz1  - 2014-03-04 10:44
+
+User 2596 - John Doe
+BEFORE
+ foo1  - 2014-03-06 14:09
+  bzz10  - 2014-03-06 14:09
+  foo66bsd  - 2014-03-06 14:09
+  foo555  - 2014-03-06 14:09
+AFTER
+ blaz1  - 2014-03-06 14:09
+
+User 2393 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 6944 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-02 16:00
+  foo3 baz  - 2013-11-02 16:00
+  foo1  - 2013-11-02 16:00
+AFTER
+ foo44444  - 2013-11-02 16:00
+
+User 5021 - John Doe
+BEFORE
+ foo1  - 2013-07-12 10:47
+  foo555  - 2013-07-12 10:47
+AFTER
+ bzzzz2  - 2013-07-12 10:47
+
+User 2406 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2842 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2014-01-27 08:51
+  foo2 blah  - 2014-01-27 08:51
+AFTER
+ foo44444  - 2014-01-27 08:51
+
+User 4864 - John Doe
+BEFORE
+ foo1  - 2014-05-22 14:44
+  foo555  - 2013-09-12 13:08
+AFTER
+ bzzzz2  - 2013-09-12 13:08
+
+User 7661 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+  foo3 baz  - 2013-12-30 16:00
+AFTER
+ foo44444  - 2013-12-30 16:00
+
+User 99 - John Doe
+BEFORE
+ foo555  - 2013-09-09 00:00
+  foo66bsd  - 2013-09-09 00:00
+  foo1  - 2013-09-09 21:35
+AFTER
+ blaz1  - 2013-09-09 00:00
+
+User 8566 - John Doe
+BEFORE
+ foo66bsd  - 2014-05-19 18:07
+  foo1  - 2014-05-19 18:07
+  foo555  - 2014-05-19 18:07
+AFTER
+ blaz1  - 2014-05-19 18:07
+
+User 5790 - John Doe
+BEFORE
+ foo66bsd  - 2013-08-01 07:56
+  foo1  - 2013-08-01 07:56
+  foo555  - 2013-08-01 07:56
+AFTER
+ blaz1  - 2013-08-01 07:56
+
+User 2385 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 10097 - John Doe
+BEFORE
+ foo1  - 2013-08-27 10:11
+  foo3 baz  - 2013-08-27 10:11
+  foo2 blah  - 2013-08-27 10:11
+AFTER
+ foo44444  - 2013-08-27 10:11
+
+User 6314 - John Doe
+BEFORE
+ foo1  - 2013-11-25 00:00
+  foo555  - 2013-11-25 00:00
+AFTER
+ bzzzz2  - 2013-11-25 00:00
+
+User 6834 - John Doe
+BEFORE
+ foo3 baz  - 2013-09-26 09:29
+  foo1  - 2013-09-20 08:25
+AFTER
+ foo44444  - 2013-09-26 09:29
+
+User 765 - John Doe
+BEFORE
+ foo555  - 2014-05-03 13:18
+  foo1  - 2014-05-03 13:18
+AFTER
+ bzzzz2  - 2014-05-03 13:18
+
+User 5358 - John Doe
+BEFORE
+ foo1  - 2013-06-14 12:20
+  foo555  - 2013-06-14 12:20
+AFTER
+ bzzzz2  - 2013-06-14 12:20
+
+User 1140 - John Doe
+BEFORE
+ bzz10  - 2014-04-24 14:06
+  foo1  - 2014-04-24 14:06
+AFTER
+ blaz44  - 2014-04-24 14:06
+
+User 2235 - John Doe
+BEFORE
+ foo1  - 2014-01-16 13:31
+  foo3 baz  - 2014-01-16 13:31
+  foo2 blah  - 2014-01-16 13:31
+AFTER
+ foo44444  - 2014-01-16 13:31
+
+User 238 - John Doe
+BEFORE
+ foo555  - 2014-04-25 14:10
+  foo1  - 2014-04-15 09:56
+AFTER
+ bzzzz2  - 2014-04-25 14:10
+
+User 8303 - John Doe
+BEFORE
+ foo555  - 2014-04-22 20:22
+AFTER
+ bzzzz2  - 2014-04-22 20:22
+
+User 1565 - John Doe
+BEFORE
+ foo2 blah  - 2015-06-18 16:00
+  foo1  - 2013-06-19 10:05
+  foo3 baz  - 2015-03-20 00:00
+AFTER
+ foo44444  - 2015-03-20 00:00
+
+User 2187 - John Doe
+BEFORE
+ foo1  - 2014-01-20 16:00
+  foo2 blah  - 2014-01-20 16:00
+  foo3 baz  - 2014-01-20 16:00
+AFTER
+ foo44444  - 2014-01-20 16:00
+
+User 1423 - John Doe
+BEFORE
+ foo1  - 2014-02-13 22:35
+  foo555  - 2014-02-13 22:35
+AFTER
+ bzzzz2  - 2014-02-13 22:35
+
+User 247 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-19 09:27
+  foo2 blah  - 2013-11-01 00:00
+  foo1  - 2013-12-18 09:12
+AFTER
+ foo44444  - 2013-12-19 09:27
+
+User 4109 - John Doe
+BEFORE
+ foo66bsd  - 2014-04-28 07:03
+  foo1  - 2014-03-22 10:30
+  foo555  - 2014-03-22 10:30
+AFTER
+ blaz1  - 2014-04-28 07:03
+
+User 1103 - John Doe
+BEFORE
+ foo1  - 2014-04-17 12:58
+  foo66bsd  - 2014-04-17 12:58
+  foo555  - 2014-04-17 12:58
+AFTER
+ blaz1  - 2014-04-17 12:58
+
+User 4933 - John Doe
+BEFORE
+ foo555  - 2013-07-15 20:18
+  foo66bsd  - 2013-07-15 20:18
+  foo1  - 2013-07-15 20:18
+AFTER
+ blaz1  - 2013-07-15 20:18
+
+User 784 - John Doe
+BEFORE
+ foo2 blah  - 2013-05-31 16:09
+  foo3 baz  - 2013-05-30 00:00
+  foo1  - 2013-08-24 14:48
+AFTER
+ foo44444  - 2013-05-30 00:00
+
+User 3669 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 719 - John Doe
+BEFORE
+ foo1  - 2013-12-15 00:00
+  foo3 baz  - 2013-12-15 00:00
+  foo2 blah  - 2013-12-15 00:00
+AFTER
+ foo44444  - 2013-12-15 00:00
+
+User 7431 - John Doe
+BEFORE
+ foo3 baz  - 2013-11-02 13:13
+  foo1  - 2013-11-02 13:13
+  foo2 blah  - 2013-11-02 13:13
+AFTER
+ foo44444  - 2013-11-02 13:13
+
+User 706 - John Doe
+BEFORE
+ foo2 blah  - 2013-09-13 08:49
+  foo3 baz  - 2013-09-13 08:49
+  foo1  - 2013-05-07 08:26
+AFTER
+ foo44444  - 2013-09-13 08:49
+
+User 9012 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ bzzz7  - 2013-12-31 00:00
+
+User 6000 - John Doe
+BEFORE
+ foo555  - 2014-02-27 09:58
+  bzz10  - 2014-02-27 09:58
+  foo1  - 2014-02-27 09:58
+  foo66bsd  - 2014-02-27 09:58
+AFTER
+ blaz1  - 2014-02-27 09:58
+
+User 4610 - John Doe
+BEFORE
+ foo1  - 2014-05-07 13:23
+  foo2 blah  - 2014-05-07 13:23
+AFTER
+ bzzz7  - 2014-05-07 13:23
+
+User 696 - John Doe
+BEFORE
+ foo3 baz  - 2013-05-26 00:00
+  foo2 blah  - 2013-05-26 00:00
+  foo1  - 2013-05-26 00:00
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-26 00:00
+  foo2 blah  - 2013-05-26 00:00
+User 162 - John Doe
+BEFORE
+ foo1  - 2013-05-26 00:00
+(no dates!)
+AFTER
+ foo1  - 2013-05-26 00:00
+User 6573 - John Doe
+BEFORE
+ foo555  - 2013-10-04 14:44
+AFTER
+ bzzzz2  - 2013-10-04 14:44
+
+User 5415 - John Doe
+BEFORE
+ foo1  - 2013-05-24 00:00
+  foo2 blah  - 2013-05-24 00:00
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-24 00:00
+User 628 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 559 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 5620 - John Doe
+BEFORE
+ foo3 baz  - 2013-08-07 14:11
+  foo2 blah  - 2013-06-29 10:57
+  foo1  - 2013-06-29 10:57
+AFTER
+ foo44444  - 2013-08-07 14:11
+
+User 2479 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3996 - John Doe
+BEFORE
+ foo1  - 2014-05-08 10:57
+  foo555  - 2014-05-08 10:57
+AFTER
+ bzzzz2  - 2014-05-08 10:57
+
+User 3805 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-15 12:51
+  foo3 baz  - 2014-01-15 12:51
+  foo1  - 2014-01-15 12:51
+AFTER
+ foo44444  - 2014-01-15 12:51
+
+User 8280 - John Doe
+BEFORE
+ foo555  - 2014-05-07 11:45
+  foo1  - 2014-05-07 11:45
+AFTER
+ bzzzz2  - 2014-05-07 11:45
+
+User 2981 - John Doe
+BEFORE
+ foo1  - 2013-05-09 14:32
+  foo3 baz  - 2014-05-15 00:00
+  foo2 blah  - 2014-05-15 00:00
+AFTER
+ foo44444  - 2014-05-15 00:00
+
+User 1887 - John Doe
+BEFORE
+ foo1  - 2013-12-16 12:37
+  foo66bsd  - 2013-10-27 18:52
+  foo555  - 2013-10-27 18:52
+AFTER
+ blaz1  - 2013-10-27 18:52
+
+User 2998 - John Doe
+BEFORE
+ foo555  - 2014-04-18 10:35
+  foo1  - 2013-06-27 16:47
+AFTER
+ bzzzz2  - 2014-04-18 10:35
+
+User 2367 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3423 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 9668 - John Doe
+BEFORE
+ foo3 baz  - 2014-05-07 11:53
+  foo2 blah  - 2014-04-08 12:33
+  foo1  - 2014-04-08 12:33
+AFTER
+ foo44444  - 2014-05-07 11:53
+
+User 2730 - John Doe
+BEFORE
+ foo2 blah  - 2013-05-07 16:28
+  foo3 baz  - 2013-05-07 16:28
+  foo1  - 2013-05-07 16:28
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-07 16:28
+  foo3 baz  - 2013-05-07 16:28
+User 8191 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-05 12:05
+  foo3 baz  - 2014-02-05 12:05
+  foo1  - 2014-02-05 12:05
+AFTER
+ foo44444  - 2014-02-05 12:05
+
+User 4830 - John Doe
+BEFORE
+ foo1  - 2013-05-16 00:00
+  foo2 blah  - 2013-05-16 10:26
+  foo3 baz  - 2013-05-16 00:00
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-16 10:26
+  foo3 baz  - 2013-05-16 00:00
+User 2407 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 479 - John Doe
+BEFORE
+ foo2 blah  - 2014-05-13 10:35
+  foo1  - 2014-05-13 10:35
+AFTER
+ bzzz7  - 2014-05-13 10:35
+
+User 3457 - John Doe
+BEFORE
+ foo555  - 2014-04-29 17:23
+  foo1  - 2014-04-26 19:47
+AFTER
+ bzzzz2  - 2014-04-29 17:23
+
+User 10379 - John Doe
+BEFORE
+ foo1  - 2014-05-27 13:45
+  foo2 blah  - 2014-05-27 13:45
+AFTER
+ bzzz7  - 2014-05-27 13:45
+
+User 1800 - John Doe
+BEFORE
+ foo1  - 2014-02-20 09:23
+  foo555  - 2014-02-20 09:23
+AFTER
+ bzzzz2  - 2014-02-20 09:23
+
+User 2521 - John Doe
+BEFORE
+ foo1  - 2014-03-19 16:45
+  foo555  - 2014-03-19 16:45
+AFTER
+ bzzzz2  - 2014-03-19 16:45
+
+User 5868 - John Doe
+BEFORE
+ foo3 baz  - 2013-10-09 14:51
+  foo1  - 2013-07-25 13:35
+  foo2 blah  - 2013-07-25 13:35
+AFTER
+ foo44444  - 2013-10-09 14:51
+
+User 4516 - John Doe
+BEFORE
+ foo1  - 2013-05-07 13:57
+  foo555  - 2013-05-07 13:57
+(no dates!)
+AFTER
+ foo555  - 2013-05-07 13:57
+User 7005 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-10 00:00
+  foo1  - 2013-11-10 00:00
+  foo3 baz  - 2013-11-10 00:00
+AFTER
+ foo44444  - 2013-11-10 00:00
+
+User 7773 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-30 16:00
+  foo3 baz  - 2013-12-30 16:00
+  foo1  - 2013-12-30 16:00
+AFTER
+ foo44444  - 2013-12-30 16:00
+
+User 6918 - John Doe
+BEFORE
+ foo1  - 2013-11-01 00:00
+  foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 10255 - John Doe
+BEFORE
+ foo1  - 2014-05-15 17:06
+  foo3 baz  - 2014-05-15 17:06
+  foo2 blah  - 2014-05-15 17:06
+AFTER
+ foo44444  - 2014-05-15 17:06
+
+User 8003 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-07 13:19
+  foo3 baz  - 2014-01-07 13:19
+  foo1  - 2014-01-07 13:19
+AFTER
+ foo44444  - 2014-01-07 13:19
+
+User 2525 - John Doe
+BEFORE
+ foo1  - 2013-08-17 14:15
+  foo555  - 2013-08-01 19:14
+AFTER
+ bzzzz2  - 2013-08-01 19:14
+
+User 6804 - John Doe
+BEFORE
+ foo1  - 2014-03-25 11:30
+AFTER
+ foo1  - 2014-03-25 11:30
+
+User 3963 - John Doe
+BEFORE
+ foo2 blah  - 2013-09-28 00:00
+  foo3 baz  - 2013-09-28 00:00
+  foo1  - 2013-09-28 00:00
+AFTER
+ foo44444  - 2013-09-28 00:00
+
+User 3816 - John Doe
+BEFORE
+ foo1  - 2013-11-12 14:50
+  foo2 blah  - 2013-11-12 14:50
+  foo3 baz  - 2013-11-13 16:00
+AFTER
+ foo44444  - 2013-11-13 16:00
+
+User 161 - John Doe
+BEFORE
+ foo2 blah  - 2013-05-26 00:00
+  foo1  - 2013-05-26 00:00
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-26 00:00
+User 4236 - John Doe
+BEFORE
+ foo1  - 2014-04-16 11:04
+  foo66bsd  - 2014-04-16 11:04
+  foo555  - 2014-04-16 11:04
+AFTER
+ blaz1  - 2014-04-16 11:04
+
+User 694 - John Doe
+BEFORE
+ foo2 blah  - 2013-06-11 16:00
+  foo1  - 2013-06-12 14:51
+AFTER
+ bzzz7  - 2013-06-11 16:00
+
+User 4854 - John Doe
+BEFORE
+ foo3 baz  - 2013-05-21 13:16
+  foo2 blah  - 2013-05-21 13:16
+  foo1  - 2013-05-15 11:11
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-21 13:16
+  foo2 blah  - 2013-05-21 13:16
+User 111 - John Doe
+BEFORE
+ foo1  - 2013-10-18 09:30
+  foo66bsd  - 2013-10-18 09:30
+AFTER
+ blaz1  - 2013-10-18 09:30
+
+User 9073 - John Doe
+BEFORE
+ foo1  - 2014-03-07 10:08
+  foo2 blah  - 2014-03-07 10:08
+  foo3 baz  - 2014-03-07 10:08
+AFTER
+ foo44444  - 2014-03-07 10:08
+
+User 2378 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 9505 - John Doe
+BEFORE
+ foo555  - 2014-04-17 07:19
+  foo1  - 2014-04-17 07:19
+AFTER
+ bzzzz2  - 2014-04-17 07:19
+
+User 1095 - John Doe
+BEFORE
+ foo1  - 2014-01-20 16:00
+  foo2 blah  - 2014-01-20 16:00
+  foo3 baz  - 2014-01-20 16:00
+AFTER
+ foo44444  - 2014-01-20 16:00
+
+User 3842 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-14 07:03
+  foo3 baz  - 2014-02-14 07:03
+  foo1  - 2014-02-14 07:03
+AFTER
+ foo44444  - 2014-02-14 07:03
+
+User 7363 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+  foo1  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 2029 - John Doe
+BEFORE
+ foo2 blah  - 2013-10-27 16:00
+AFTER
+ bzzz7  - 2013-10-27 16:00
+
+User 2404 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2481 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 1003 - John Doe
+BEFORE
+ foo555  - 2013-06-18 13:54
+  foo66bsd  - 2013-06-18 13:54
+AFTER
+ blaz1  - 2013-06-18 13:54
+
+User 8381 - John Doe
+BEFORE
+ foo555  - 2014-02-07 09:32
+  foo66bsd  - 2014-02-07 09:32
+AFTER
+ blaz1  - 2014-02-07 09:32
+
+User 7372 - John Doe
+BEFORE
+ foo1  - 2013-11-01 00:00
+  foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 7498 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-12 14:35
+AFTER
+ bzzz7  - 2013-11-12 14:35
+
+User 3711 - John Doe
+BEFORE
+ foo2 blah  - 2014-03-01 12:50
+  foo3 baz  - 2014-03-01 12:50
+  foo1  - 2014-03-01 12:50
+AFTER
+ foo44444  - 2014-03-01 12:50
+
+User 32 - John Doe
+BEFORE
+ foo2 blah  - 2014-05-03 00:00
+  foo1  - 2014-01-16 10:24
+  foo3 baz  - 2014-01-16 10:24
+AFTER
+ foo44444  - 2014-01-16 10:24
+
+User 806 - John Doe
+BEFORE
+ foo1  - 2013-12-15 00:00
+  foo3 baz  - 2013-12-15 00:00
+  foo2 blah  - 2013-12-15 00:00
+AFTER
+ foo44444  - 2013-12-15 00:00
+
+User 8679 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-13 15:30
+  foo3 baz  - 2014-02-13 15:30
+  foo1  - 2014-02-13 15:30
+AFTER
+ foo44444  - 2014-02-13 15:30
+
+User 8654 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 939 - John Doe
+BEFORE
+ foo2 blah  - 2014-03-26 10:30
+  foo1  - 2014-03-26 10:30
+AFTER
+ bzzz7  - 2014-03-26 10:30
+
+User 8626 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-28 00:00
+  foo3 baz  - 2014-02-28 00:00
+  foo1  - 2014-02-28 00:00
+AFTER
+ foo44444  - 2014-02-28 00:00
+
+User 10101 - John Doe
+BEFORE
+ foo2 blah  - 2014-05-09 10:27
+  foo1  - 2014-05-09 10:27
+  foo3 baz  - 2014-05-09 10:27
+AFTER
+ foo44444  - 2014-05-09 10:27
+
+User 2269 - John Doe
+BEFORE
+ foo1  - 2014-01-20 16:00
+  foo3 baz  - 2014-01-20 16:00
+  foo2 blah  - 2013-05-24 08:19
+FIXUP!
+AFTER
+ foo2 blah  - 2013-05-24 08:19
+  foo44444  - 2014-01-20 16:00
+
+User 3667 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2744 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 6907 - John Doe
+BEFORE
+ foo555  - 2014-05-06 16:25
+  foo1  - 2014-05-06 16:25
+AFTER
+ bzzzz2  - 2014-05-06 16:25
+
+User 8077 - John Doe
+BEFORE
+ foo555  - 2014-01-10 08:33
+  foo66bsd  - 2014-01-10 08:33
+  foo1  - 2014-01-10 08:33
+AFTER
+ blaz1  - 2014-01-10 08:33
+
+User 5459 - John Doe
+BEFORE
+ foo3 baz  - 2013-07-18 16:55
+  foo2 blah  - 2013-07-18 16:55
+  foo1  - 2013-07-18 16:55
+AFTER
+ foo44444  - 2013-07-18 16:55
+
+User 434 - John Doe
+BEFORE
+ foo1  - 2013-05-26 00:00
+  foo2 blah  - 2013-05-26 00:00
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-26 00:00
+User 3461 - John Doe
+BEFORE
+ foo2 blah  - 2014-03-25 09:04
+  foo3 baz  - 2014-03-25 09:04
+AFTER
+ foo44444  - 2014-03-25 09:04
+
+User 5890 - John Doe
+BEFORE
+ foo1  - 2013-10-16 15:26
+  foo3 baz  - 2013-07-27 09:08
+  foo2 blah  - 2013-07-27 09:08
+AFTER
+ foo44444  - 2013-07-27 09:08
+
+User 583 - John Doe
+BEFORE
+ foo1  - 2013-08-27 10:11
+  foo2 blah  - 2013-08-27 10:11
+  foo3 baz  - 2013-08-27 10:11
+AFTER
+ foo44444  - 2013-08-27 10:11
+
+User 245 - John Doe
+BEFORE
+ foo555  - 2013-08-26 08:46
+  foo66bsd  - 2013-08-26 08:46
+  foo1  - 2013-05-21 14:26
+AFTER
+ blaz1  - 2013-08-26 08:46
+
+User 163 - John Doe
+BEFORE
+ foo2 blah  - 2013-05-26 00:00
+  foo1  - 2013-05-26 00:00
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-26 00:00
+User 678 - John Doe
+BEFORE
+ foo3 baz  - 2014-02-08 12:02
+AFTER
+ foo44444  - 2014-02-08 12:02
+
+User 718 - John Doe
+BEFORE
+ foo2 blah  - 2013-08-25 12:15
+  foo1  - 2013-05-11 15:11
+AFTER
+ bzzz7  - 2013-08-25 12:15
+
+User 390 - John Doe
+BEFORE
+ foo1  - 2013-08-20 12:02
+  foo3 baz  - 2013-05-11 15:11
+  foo2 blah  - 2013-05-11 15:11
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-11 15:11
+  foo2 blah  - 2013-05-11 15:11
+User 7238 - John Doe
+BEFORE
+ foo1  - 2013-11-22 06:14
+  foo2 blah  - 2013-11-22 06:14
+  foo3 baz  - 2013-11-22 06:14
+AFTER
+ foo44444  - 2013-11-22 06:14
+
+User 4697 - John Doe
+BEFORE
+ foo1  - 2013-05-08 15:13
+  foo3 baz  - 2013-05-08 15:13
+  foo2 blah  - 2013-05-08 15:13
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-08 15:13
+  foo2 blah  - 2013-05-08 15:13
+User 2166 - John Doe
+BEFORE
+ foo1  - 2014-05-27 13:19
+  foo2 blah  - 2014-05-27 13:19
+AFTER
+ bzzz7  - 2014-05-27 13:19
+
+User 4876 - John Doe
+BEFORE
+ foo2 blah  - 2013-05-11 09:08
+  foo3 baz  - 2013-05-11 09:08
+  foo1  - 2013-05-11 09:08
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-11 09:08
+  foo3 baz  - 2013-05-11 09:08
+User 8832 - John Doe
+BEFORE
+ foo1  - 2014-02-21 07:58
+AFTER
+ foo1  - 2014-02-21 07:58
+
+User 2106 - John Doe
+BEFORE
+ foo1  - 2014-05-04 10:09
+  foo2 blah  - 2014-01-08 16:00
+  foo3 baz  - 2014-01-08 16:00
+AFTER
+ foo44444  - 2014-01-08 16:00
+
+User 7373 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+  foo1  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 10185 - John Doe
+BEFORE
+ foo1  - 2014-05-10 10:39
+  foo3 baz  - 2014-05-10 10:39
+  foo2 blah  - 2014-05-10 10:39
+AFTER
+ foo44444  - 2014-05-10 10:39
+
+User 5880 - John Doe
+BEFORE
+ foo1  - 2014-02-12 12:47
+  foo555  - 2014-02-12 12:47
+AFTER
+ bzzzz2  - 2014-02-12 12:47
+
+User 7803 - John Doe
+BEFORE
+ foo1  - 2014-04-06 20:16
+  foo555  - 2014-03-14 13:36
+AFTER
+ bzzzz2  - 2014-03-14 13:36
+
+User 8876 - John Doe
+BEFORE
+ foo2 blah  - 2014-03-15 11:35
+  foo3 baz  - 2014-03-15 11:35
+  foo1  - 2014-03-15 11:35
+AFTER
+ foo44444  - 2014-03-15 11:35
+
+User 7088 - John Doe
+BEFORE
+ foo2 blah  - 2014-05-27 14:04
+  foo1  - 2014-05-27 14:04
+AFTER
+ bzzz7  - 2014-05-27 14:04
+
+User 9426 - John Doe
+BEFORE
+ foo2 blah  - 2014-03-26 10:51
+  foo1  - 2014-03-26 10:51
+AFTER
+ bzzz7  - 2014-03-26 10:51
+
+User 1013 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 2330 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-04 11:33
+  foo3 baz  - 2014-01-04 11:33
+  foo1  - 2014-01-04 11:33
+AFTER
+ foo44444  - 2014-01-04 11:33
+
+User 2244 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-18 00:00
+  foo3 baz  - 2014-01-18 00:00
+  foo1  - 2014-01-18 00:00
+AFTER
+ foo44444  - 2014-01-18 00:00
+
+User 5845 - John Doe
+BEFORE
+ foo3 baz  - 2014-02-15 15:05
+  foo1  - 2013-07-18 09:44
+  foo2 blah  - 2013-07-18 09:44
+AFTER
+ foo44444  - 2014-02-15 15:05
+
+User 9429 - John Doe
+BEFORE
+ foo1  - 2014-03-26 13:01
+AFTER
+ foo1  - 2014-03-26 13:01
+
+User 4272 - John Doe
+BEFORE
+ foo1  - 2013-06-03 00:00
+  foo555  - 2013-06-03 00:00
+AFTER
+ bzzzz2  - 2013-06-03 00:00
+
+User 2086 - John Doe
+BEFORE
+ foo2 blah  - 2013-05-26 00:00
+  foo1  - 2013-05-26 00:00
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-26 00:00
+User 7040 - John Doe
+BEFORE
+ foo1  - 2013-10-10 15:42
+  foo3 baz  - 2013-10-10 15:42
+  foo2 blah  - 2013-10-10 15:42
+AFTER
+ foo44444  - 2013-10-10 15:42
+
+User 712 - John Doe
+BEFORE
+ foo1  - 2013-11-13 11:40
+AFTER
+ foo1  - 2013-11-13 11:40
+
+User 2270 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-20 16:00
+  foo1  - 2014-01-20 16:00
+  foo3 baz  - 2014-01-20 16:00
+AFTER
+ foo44444  - 2014-01-20 16:00
+
+User 5458 - John Doe
+BEFORE
+ foo2 blah  - 2013-07-18 16:55
+  foo3 baz  - 2013-07-18 16:55
+  foo1  - 2013-07-18 16:55
+AFTER
+ foo44444  - 2013-07-18 16:55
+
+User 4540 - John Doe
+BEFORE
+ foo2 blah  - 2014-04-19 07:27
+  foo3 baz  - 2014-04-19 07:27
+  foo1  - 2014-04-19 07:27
+AFTER
+ foo44444  - 2014-04-19 07:27
+
+User 2403 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 1633 - John Doe
+BEFORE
+ foo1  - 2014-01-19 22:22
+  foo66bsd  - 2014-01-19 22:22
+  foo555  - 2014-01-19 22:22
+AFTER
+ blaz1  - 2014-01-19 22:22
+
+User 6556 - John Doe
+BEFORE
+ foo3 baz  - 2013-11-22 06:14
+  foo1  - 2013-11-22 06:14
+  foo2 blah  - 2013-11-22 06:14
+AFTER
+ foo44444  - 2013-11-22 06:14
+
+User 2122 - John Doe
+BEFORE
+ foo1  - 2013-12-08 11:33
+  foo3 baz  - 2013-12-08 11:33
+  foo2 blah  - 2013-12-08 11:33
+AFTER
+ foo44444  - 2013-12-08 11:33
+
+User 10098 - John Doe
+BEFORE
+ foo3 baz  - 2014-05-09 10:27
+  foo2 blah  - 2014-05-09 10:27
+  foo1  - 2014-05-09 10:27
+AFTER
+ foo44444  - 2014-05-09 10:27
+
+User 7391 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+  foo1  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 10096 - John Doe
+BEFORE
+ foo1  - 2013-08-27 10:11
+  foo3 baz  - 2013-08-27 10:11
+  foo2 blah  - 2013-08-27 10:11
+AFTER
+ foo44444  - 2013-08-27 10:11
+
+User 809 - John Doe
+BEFORE
+ foo1  - 2013-12-15 00:00
+  foo3 baz  - 2013-12-15 00:00
+  foo2 blah  - 2013-12-15 00:00
+AFTER
+ foo44444  - 2013-12-15 00:00
+
+User 6047 - John Doe
+BEFORE
+ foo3 baz  - 2013-08-01 00:00
+  foo1  - 2013-08-01 00:00
+  foo2 blah  - 2013-08-01 00:00
+AFTER
+ foo44444  - 2013-08-01 00:00
+
+User 8026 - John Doe
+BEFORE
+ foo2 blah  - 2014-01-08 07:55
+  foo3 baz  - 2014-01-08 07:55
+  foo1  - 2014-01-08 07:55
+AFTER
+ foo44444  - 2014-01-08 07:55
+
+User 7039 - John Doe
+BEFORE
+ foo1  - 2013-10-10 08:03
+  foo3 baz  - 2013-10-10 08:03
+  foo2 blah  - 2013-10-10 08:03
+AFTER
+ foo44444  - 2013-10-10 08:03
+
+User 1355 - John Doe
+BEFORE
+ foo555  - 2014-04-17 09:52
+  foo1  - 2014-04-17 09:52
+AFTER
+ bzzzz2  - 2014-04-17 09:52
+
+User 2426 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 873 - John Doe
+BEFORE
+ foo2 blah  - 2014-04-18 13:29
+  foo1  - 2013-05-16 21:46
+AFTER
+ bzzz7  - 2014-04-18 13:29
+
+User 7359 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+  foo1  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 5087 - John Doe
+BEFORE
+ foo1  - 2013-06-03 00:00
+AFTER
+ foo1  - 2013-06-03 00:00
+
+User 9118 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-28 00:00
+  foo1  - 2014-02-28 00:00
+  foo3 baz  - 2014-02-28 00:00
+AFTER
+ foo44444  - 2014-02-28 00:00
+
+User 2460 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 7366 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+  foo1  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 8591 - John Doe
+BEFORE
+ foo1  - 2014-01-31 00:00
+  foo3 baz  - 2014-01-31 00:00
+  foo2 blah  - 2014-01-31 00:00
+AFTER
+ foo44444  - 2014-01-31 00:00
+
+User 7316 - John Doe
+BEFORE
+ foo1  - 2014-04-23 11:26
+  foo2 blah  - 2014-04-23 11:26
+  foo3 baz  - 2014-04-23 11:26
+AFTER
+ foo44444  - 2014-04-23 11:26
+
+User 8007 - John Doe
+BEFORE
+ foo2 blah  - 2013-09-08 14:32
+  foo1  - 2013-09-07 13:46
+AFTER
+ bzzz7  - 2013-09-08 14:32
+
+User 1881 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-11 16:00
+  foo3 baz  - 2013-12-11 16:00
+  foo1  - 2013-09-07 12:54
+AFTER
+ foo44444  - 2013-12-11 16:00
+
+User 9438 - John Doe
+BEFORE
+ foo2 blah  - 2014-03-26 13:47
+  foo3 baz  - 2014-03-26 13:47
+  foo1  - 2014-03-26 13:47
+AFTER
+ foo44444  - 2014-03-26 13:47
+
+User 851 - John Doe
+BEFORE
+ foo3 baz  - 2014-01-04 13:38
+  foo1  - 2013-08-16 11:19
+AFTER
+ foo44444  - 2014-01-04 13:38
+
+User 7877 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-13 14:48
+  foo3 baz  - 2013-12-13 14:48
+  foo1  - 2013-12-13 14:48
+AFTER
+ foo44444  - 2013-12-13 14:48
+
+User 6656 - John Doe
+BEFORE
+ foo2 blah  - 2013-09-07 14:11
+  foo3 baz  - 2013-09-07 14:11
+  foo1  - 2013-09-07 14:11
+AFTER
+ foo44444  - 2013-09-07 14:11
+
+User 5829 - John Doe
+BEFORE
+ foo1  - 2014-01-15 07:53
+  foo3 baz  - 2014-01-15 07:53
+AFTER
+ foo44444  - 2014-01-15 07:53
+
+User 246 - John Doe
+BEFORE
+ foo2 blah  - 2013-12-19 09:27
+  foo3 baz  - 2013-12-19 09:27
+  foo1  - 2013-12-18 09:12
+AFTER
+ foo44444  - 2013-12-19 09:27
+
+User 2408 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 4439 - John Doe
+BEFORE
+ foo1  - 2014-01-17 13:33
+  foo2 blah  - 2013-10-27 09:22
+AFTER
+ bzzz7  - 2013-10-27 09:22
+
+User 82 - John Doe
+BEFORE
+ foo66bsd  - 2013-09-06 09:16
+  foo555  - 2013-05-11 19:35
+  foo1  - 2013-09-13 12:58
+FIXUP!
+AFTER
+ foo555  - 2013-05-11 19:35
+  blaz1  - 2013-09-06 09:16
+
+User 54 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-28 12:51
+  foo3 baz  - 2014-02-28 12:51
+  foo1  - 2014-02-28 12:51
+AFTER
+ foo44444  - 2014-02-28 12:51
+
+User 8008 - John Doe
+BEFORE
+ foo3 baz  - 2014-01-10 13:01
+  foo1  - 2014-01-10 13:01
+  foo2 blah  - 2014-01-10 13:01
+AFTER
+ foo44444  - 2014-01-10 13:01
+
+User 7014 - John Doe
+BEFORE
+ foo3 baz  - 2013-10-08 09:47
+  foo2 blah  - 2013-10-08 09:47
+  foo1  - 2013-10-08 09:47
+AFTER
+ foo44444  - 2013-10-08 09:47
+
+User 2486 - John Doe
+BEFORE
+ foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+  foo1  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 45 - John Doe
+BEFORE
+ foo1  - 2014-04-23 14:04
+  foo3 baz  - 2013-12-17 14:39
+  foo2 blah  - 2013-06-27 14:53
+AFTER
+ foo44444  - 2013-12-17 14:39
+
+User 1543 - John Doe
+BEFORE
+ foo1  - 2013-09-24 21:37
+  foo2 blah  - 2013-09-24 21:37
+AFTER
+ bzzz7  - 2013-09-24 21:37
+
+User 963 - John Doe
+BEFORE
+ foo2 blah  - 2013-06-30 00:00
+  foo1  - 2013-06-30 00:00
+  foo3 baz  - 2013-06-30 00:00
+AFTER
+ foo44444  - 2013-06-30 00:00
+
+User 7368 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+  foo1  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 1872 - John Doe
+BEFORE
+ foo1  - 2014-01-16 16:00
+  foo2 blah  - 2013-10-27 09:22
+AFTER
+ bzzz7  - 2013-10-27 09:22
+
+User 630 - John Doe
+BEFORE
+ foo1  - 2013-12-31 00:00
+  foo3 baz  - 2013-12-31 00:00
+  foo2 blah  - 2013-12-31 00:00
+AFTER
+ foo44444  - 2013-12-31 00:00
+
+User 3725 - John Doe
+BEFORE
+ foo2 blah  - 2014-03-22 05:42
+  foo3 baz  - 2014-03-22 05:42
+  foo1  - 2014-03-22 05:42
+AFTER
+ foo44444  - 2014-03-22 05:42
+
+User 8640 - John Doe
+BEFORE
+ foo2 blah  - 2014-02-11 14:54
+  foo3 baz  - 2014-02-11 14:54
+  foo1  - 2014-02-11 14:54
+AFTER
+ foo44444  - 2014-02-11 14:54
+
+User 7392 - John Doe
+BEFORE
+ foo2 blah  - 2013-11-01 00:00
+  foo3 baz  - 2013-11-01 00:00
+  foo1  - 2013-11-01 00:00
+AFTER
+ foo44444  - 2013-11-01 00:00
+
+User 1150 - John Doe
+BEFORE
+ foo3 baz  - 2013-11-24 00:00
+  foo2 blah  - 2013-11-24 07:17
+  foo1  - 2013-11-24 07:17
+AFTER
+ foo44444  - 2013-11-24 00:00
+
+User 2265 - John Doe
+BEFORE
+ foo1  - 2014-01-20 16:00
+  foo2 blah  - 2014-01-20 16:00
+  foo3 baz  - 2014-01-20 16:00
+AFTER
+ foo44444  - 2014-01-20 16:00
+
+User 9258 - John Doe
+BEFORE
+ foo1  - 2013-06-03 00:00
+  foo555  - 2013-06-03 00:00
+AFTER
+ bzzzz2  - 2013-06-03 00:00
+
+User 1047 - John Doe
+BEFORE
+ foo2 blah  - 2013-05-07 22:00
+  foo3 baz  - 2013-05-07 22:00
+  foo1  - 2013-05-07 14:00
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-07 22:00
+  foo3 baz  - 2013-05-07 22:00
+User 5919 - John Doe
+BEFORE
+ foo66bsd  - 2014-01-31 08:37
+  foo1  - 2014-01-30 17:27
+  foo555  - 2014-01-31 08:37
+AFTER
+ blaz1  - 2014-01-31 08:37
+
+User 9545 - John Doe
+BEFORE
+ foo66bsd  - 2014-05-16 11:30
+  foo1  - 2014-04-19 14:24
+  foo555  - 2014-04-19 14:24
+AFTER
+ blaz1  - 2014-05-16 11:30
+
+User 3295 - John Doe
+BEFORE
+ foo1  - 2014-04-29 15:42
+  foo555  - 2014-04-29 11:03
+AFTER
+ bzzzz2  - 2014-04-29 11:03
+
+User 3758 - John Doe
+BEFORE
+ foo1  - 2014-04-19 07:45
+  foo2 blah  - 2014-04-19 07:45
+  foo3 baz  - 2014-04-19 07:45
+AFTER
+ foo44444  - 2014-04-19 07:45
+
+User 957 - John Doe
+BEFORE
+ foo1  - 2014-04-12 16:00
+  foo2 blah  - 2014-04-12 16:00
+AFTER
+ bzzz7  - 2014-04-12 16:00
+
+User 8834 - John Doe
+BEFORE
+ foo1  - 2014-03-19 06:06
+  foo2 blah  - 2014-03-19 06:06
+  foo3 baz  - 2014-03-19 06:06
+AFTER
+ foo44444  - 2014-03-19 06:06
+
+User 6563 - John Doe
+BEFORE
+ foo1  - 2014-04-12 10:32
+  foo66bsd  - 2014-04-12 10:32
+  foo555  - 2014-04-12 10:32
+AFTER
+ blaz1  - 2014-04-12 10:32
+
+User 2792 - John Doe
+BEFORE
+ foo1  - 2014-01-31 19:53
+  foo2 blah  - 2013-05-11 21:12
+(no dates!)
+AFTER
+ foo2 blah  - 2013-05-11 21:12
+User 8589 - John Doe
+BEFORE
+ foo1  - 2014-01-30 16:00
+  foo3 baz  - 2014-01-30 16:00
+  foo2 blah  - 2014-01-30 16:00
+AFTER
+ foo44444  - 2014-01-30 16:00
+
+User 10 - John Doe
+BEFORE
+ foo1  - 2014-01-25 15:45
+AFTER
+ foo1  - 2014-01-25 15:45
+
+User 6317 - John Doe
+BEFORE
+ foo1  - 2013-09-14 13:50
+  foo3 baz  - 2013-09-14 13:50
+  foo2 blah  - 2013-09-14 13:50
+AFTER
+ foo44444  - 2013-09-14 13:50
+
+User 31 - John Doe
+BEFORE
+ foo1  - 2014-02-11 09:00
+  foo2 blah  - 2014-02-11 09:00
+  foo3 baz  - 2013-08-04 06:51
+AFTER
+ foo44444  - 2013-08-04 06:51
+
+User 5073 - John Doe
+BEFORE
+ foo1  - 2014-02-04 08:13
+  foo3 baz  - 2013-05-25 16:34
+  foo2 blah  - 2013-05-25 16:34
+(no dates!)
+AFTER
+ foo3 baz  - 2013-05-25 16:34
+  foo2 blah  - 2013-05-25 16:34
+
